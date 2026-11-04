@@ -9,6 +9,11 @@
 
 ---
 
+## Evidence correction (2026-11-05)
+
+- **Term-II:** The Textbook Corporation's 2026-27 notice announced Term-II textbook sales for Classes 1-7 from **22.09.2026**. Therefore the Term-II HTTP 403 records in this audit are **CDN/URL retrieval unavailable at audit time**, not evidence that these books were not released.
+- **Term-III:** The corresponding API records are present and GET returned HTTP 403, but the current 2026-27 sales notices checked do not supply a Term-III release date. Keep the state as **CDN_UNAVAILABLE_AT_CHECK / RELEASE_STATUS_UNCONFIRMED**; do not call it confirmed unreleased.
+
 ## 1. Class-Wide Metric Reconciliation Table (49 Records Complete)
 
 | No. | Audit Verification Metric | Count | Reconciliation & Evidence Details |
