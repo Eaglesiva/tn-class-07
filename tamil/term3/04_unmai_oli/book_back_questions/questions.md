@@ -1,8 +1,14 @@
-# 7-ஆம் வகுப்பு தமிழ் - TERM3 - 08 Unmai Oli
-## பாடநூல் மதிப்பீடு வினாக்கள் (வினாக்கள் மட்டும்)
+# 7-ஆம் வகுப்பு தமிழ் — பருவம் 3 — உண்மை ஒளி
 
-> **மூலச் சான்று (Source Reference):** [HTML Page](file:///e:/19.03.26/new%20project/tn_school_books/7th/tamil/term3/08_unmai_oli/book_back_questions/questions.md)
+> இயல் 2: ஒப்புரவு ஒழுகு · பாடம் 2.4
+> Text cross-check: [2025 Term 3 text mirror](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md)
+> Supporting guide: [Samacheer Kalvi Guide](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-2-4/)
+> Edition status: `CURRENT_VALIDITY_UNVERIFIED`.
 
----
+## பாடநூல் மதிப்பீடு
 
-> **பாடநூல் தகவல் குறிப்பு:** இப்பாடத்திற்குப் பாடநூல் மதிப்பீட்டு வினாக்கள் பாடநூலில் தனியாக வழங்கப்படவில்லை.
+### படக்கதை
+
+1. ‘உண்மை ஒளி’ படக்கதையைக் கதையாகச் சுருக்கி எழுதுக.
+
+> இந்தப் பாடத்திற்கான மதிப்பீட்டுப் பகுதியில் கிடைத்த வினா ஒரு திறந்தநிலை கதைச் சுருக்க வினா. நான்கு விருப்பங்களுடன் கூடிய அசல் MCQ அல்லது தனியாக மாற்றத்தகுந்த ஒரு மதிப்பெண் வினா இல்லை.
