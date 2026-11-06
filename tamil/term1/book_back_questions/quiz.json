@@ -1,5 +1,65 @@
 [
   {
+    "id": "7_tam_t1_u1_1_q1",
+    "question": "‘நெறி’ என்னும் சொல்லின் பொருள் _________.",
+    "options": [
+      "வழி",
+      "குறிக்கோள்",
+      "கொள்கை",
+      "அறம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பாடல் சூழலில் ‘நெறி’ என்பது வழி அல்லது அறவழி என்ற பொருளில் வருகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/01_amudha_thamizh/page_12.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/"
+  },
+  {
+    "id": "7_tam_t1_u1_1_q2",
+    "question": "‘குரலாகும்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது _________.",
+    "options": [
+      "குரல் + யாகும்",
+      "குரல் + ஆகும்",
+      "குர + லாகும்",
+      "குர + ஆகும்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘குரல்’ + ‘ஆகும்’ சேர்ந்து ‘குரலாகும்’ என அமைகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/01_amudha_thamizh/page_12.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/"
+  },
+  {
+    "id": "7_tam_t1_u1_1_q3",
+    "question": "‘வான் + ஒலி’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் _________.",
+    "options": [
+      "வான்ஒலி",
+      "வானொலி",
+      "வாவொலி",
+      "வானெலி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘வான் + ஒலி’ புணர்ந்து ‘வானொலி’ என அமைகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/01_amudha_thamizh/page_12.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/"
+  },
+  {
     "id": "7_tam_t1_u1_2_q1",
     "question": "பகைவரை வெற்றி கொண்டவரைப் பாடும் இலக்கியம் ________.",
     "options": [
@@ -98,6 +158,186 @@
     ],
     "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK",
     "explanationSourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-ondralla-irandalla-question-answer/"
+  },
+  {
+    "id": "7_tam_t1_u1_3_q1",
+    "question": "மொழியின் முதல் நிலை பேசுதல், _________ ஆகியனவாகும்.",
+    "options": [
+      "படித்தல்",
+      "கேட்டல்",
+      "எழுதுதல்",
+      "வரைதல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பாடம் பேசுதலும் கேட்டலும் மொழியின் முதல் நிலை எனக் குறிப்பிடுகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/03_pechu_eluthu_mozhi/page_20.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/"
+  },
+  {
+    "id": "7_tam_t1_u1_3_q2",
+    "question": "ஒலியின் வரிவடிவம் _________ ஆகும்.",
+    "options": [
+      "பேச்சு",
+      "எழுத்து",
+      "குரல்",
+      "பாட்டு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "ஒலியை வரிவடிவில் பதிவு செய்வதே எழுத்து வடிவம்.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/03_pechu_eluthu_mozhi/page_20.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/"
+  },
+  {
+    "id": "7_tam_t1_u1_3_q3",
+    "question": "தமிழின் கிளைமொழிகளுள் ஒன்று _________ .",
+    "options": [
+      "உருது",
+      "இந்தி",
+      "தெலுங்கு",
+      "ஆங்கிலம்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "தெலுங்கு தமிழிலிருந்து பிரிந்த திராவிடக் கிளைமொழிகளில் ஒன்றாகப் பாடத்தில் குறிப்பிடப்பட்டுள்ளது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/03_pechu_eluthu_mozhi/page_20.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/"
+  },
+  {
+    "id": "7_tam_t1_u1_3_q4",
+    "question": "பேச்சுமொழியை _________ வழக்கு என்றும் கூறுவர்.",
+    "options": [
+      "இலக்கிய",
+      "உலக",
+      "நூல்",
+      "மொழி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பாடத்தில் பேச்சுமொழி உலக வழக்கு என்றும் எழுத்துமொழி இலக்கிய வழக்கு என்றும் விளக்கப்படுகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/03_pechu_eluthu_mozhi/page_20.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/"
+  },
+  {
+    "id": "7_tam_t1_u1_5_q1",
+    "question": "பொருந்தாத சொல்லைத் தேர்ந்தெடுக்கவும்: பசு, விடு, ஆறு, கரு.",
+    "options": [
+      "கரு",
+      "பசு",
+      "விடு",
+      "ஆறு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "இந்தச் சொற்களில் தனித்த ஒலியமைப்பைக் கொண்டது ‘கரு’ என Book Back Guide-ல் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-5/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.5",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/05_kutriyalugaram_kutriyaligaram/page_29.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_RULE_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-5/"
+  },
+  {
+    "id": "7_tam_t1_u1_5_q2",
+    "question": "பொருந்தாத சொல்லைத் தேர்ந்தெடுக்கவும்: பாக்கு, பஞ்சு, பாட்டு, பத்து.",
+    "options": [
+      "பஞ்சு",
+      "பாக்கு",
+      "பாட்டு",
+      "பத்து"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பஞ்சு மெல்லினத் தொடரைச் சார்ந்தது; மற்றவை வல்லினத் தொடரைச் சார்ந்தவை.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-5/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.5",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/05_kutriyalugaram_kutriyaligaram/page_29.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_RULE_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-5/"
+  },
+  {
+    "id": "7_tam_t1_u1_5_q3",
+    "question": "பொருந்தாத சொல்லைத் தேர்ந்தெடுக்கவும்: ஆறு, மாசு, பாகு, அது.",
+    "options": [
+      "அது",
+      "ஆறு",
+      "மாசு",
+      "பாகு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘அது’ முற்றியலுகர அமைப்பில் வருகிறது; மற்றவை குற்றியலுகர வகைகள்.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-5/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.5",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/05_kutriyalugaram_kutriyaligaram/page_29.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_RULE_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-5/"
+  },
+  {
+    "id": "7_tam_t1_u1_5_q4",
+    "question": "பொருந்தாத சொல்லைத் தேர்ந்தெடுக்கவும்: அரசு, எய்து, மூழ்கு, மார்பு.",
+    "options": [
+      "அரசு",
+      "எய்து",
+      "மூழ்கு",
+      "மார்பு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘அரசு’ உயிர்த்தொடர் வகையைச் சார்ந்தது; மற்றவை வேறு வகைகளைச் சார்ந்தவை.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-5/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.5",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/05_kutriyalugaram_kutriyaligaram/page_29.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_RULE_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-5/"
+  },
+  {
+    "id": "7_tam_t1_u1_5_q5",
+    "question": "பொருந்தாத சொல்லைத் தேர்ந்தெடுக்கவும்: பண்பு, மஞ்சு, கண்டு, எஃகு.",
+    "options": [
+      "எஃகு",
+      "பண்பு",
+      "மஞ்சு",
+      "கண்டு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘எஃகு’ ஆய்தத்தொடர்; மற்ற மூன்று சொற்களும் மென்தொடர் வகையைச் சார்ந்தவை.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-5/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.5",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/05_kutriyalugaram_kutriyaligaram/page_29.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_RULE_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-5/"
   },
   {
     "id": "7_tam_t1_u2_1_q1",
