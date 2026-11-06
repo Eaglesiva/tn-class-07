@@ -1,0 +1,137 @@
+[
+  {
+    "id": "7_tam_t3_malaipozhivu_q1",
+    "question": "மனித வாழ்க்கையில் தேவைப்படுவதாக இயேசுநாதர் கூறுவது ______.",
+    "options": [
+      "பணம்",
+      "பொறுமை",
+      "புகழ்",
+      "வீடு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "மனித வாழ்க்கைக்கு அவசியமான பண்பு சாந்தம் / பொறுமை என இயேசுநாதர் கூறுகிறார்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — மலைப்பொழிவு மதிப்பீடு",
+    "verificationStatus": "TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_malaipozhivu_q2",
+    "question": "சாந்த குணம் உடையவர்கள் ______ முழுவதையும் பெறுவர்.",
+    "options": [
+      "புத்தகம்",
+      "செல்வம்",
+      "உலகம்",
+      "துன்பம்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘தாரணி முழுவதும் அவர்களுக்கு உரியது’ என்ற பாடல் வரி உலகம் என்பதைக் காட்டுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — மலைப்பொழிவு மதிப்பீடு",
+    "verificationStatus": "TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_malaipozhivu_q3",
+    "question": "‘மலையளவு’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "மலை + யளவு",
+      "மலை + அளவு",
+      "மலையின் + அளவு",
+      "மலையில் + அளவு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘மலையளவு’ என்பது ‘மலை + அளவு’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — மலைப்பொழிவு மதிப்பீடு",
+    "verificationStatus": "TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_malaipozhivu_q4",
+    "question": "‘தன்னாடு’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "தன் + னாடு",
+      "தன்மை + னாடு",
+      "தன் + நாடு",
+      "தன்மை + நாடு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘தன்னாடு’ என்பது ‘தன் + நாடு’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — மலைப்பொழிவு மதிப்பீடு",
+    "verificationStatus": "TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_malaipozhivu_q5",
+    "question": "‘இவை + இல்லாது’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "இவையில்லாது",
+      "இவைஇல்லாது",
+      "இவயில்லாது",
+      "இவஇல்லாது"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘இவை + இல்லாது’ புணர்ந்து ‘இவையில்லாது’ ஆகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — மலைப்பொழிவு மதிப்பீடு",
+    "verificationStatus": "TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_malaipozhivu_s1",
+    "question": "‘சாந்தம்’ என்பதற்குச் சரியான பொருள் எது?",
+    "options": [
+      "அமைதி",
+      "சிறப்பு",
+      "உலகம்",
+      "கருணை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘சாந்தம்’ என்பதன் பொருள் அமைதி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — சொற்களும் பொருளும் / பொருத்துக",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_malaipozhivu_s2",
+    "question": "‘மகத்துவம்’ என்பதற்குச் சரியான பொருள் எது?",
+    "options": [
+      "சிறப்பு",
+      "அமைதி",
+      "உலகம்",
+      "கருணை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘மகத்துவம்’ என்பதன் பொருள் சிறப்பு.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — சொற்களும் பொருளும் / பொருத்துக",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_malaipozhivu_s3",
+    "question": "‘தாரணி’ என்பதற்குச் சரியான பொருள் எது?",
+    "options": [
+      "உலகம்",
+      "அமைதி",
+      "சிறப்பு",
+      "கருணை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘தாரணி’ என்பதன் பொருள் உலகம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — சொற்களும் பொருளும் / பொருத்துக",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_malaipozhivu_s4",
+    "question": "‘இரக்கம்’ என்பதற்குச் சரியான பொருள் எது?",
+    "options": [
+      "கருணை",
+      "அமைதி",
+      "சிறப்பு",
+      "உலகம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘இரக்கம்’ என்பதன் பொருள் கருணை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — சொற்களும் பொருளும் / பொருத்துக",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  }
+]
