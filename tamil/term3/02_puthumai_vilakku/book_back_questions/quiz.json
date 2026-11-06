@@ -1,0 +1,116 @@
+[
+  {
+    "id": "7_tam_t3_pudhumai_vilakku_q1",
+    "question": "“இடர் ஆழி நீங்குகவே” – இத்தொடரில் அடிக்கோடிட்ட இடர் என்னும் சொல்லின் பொருள் ______.",
+    "options": [
+      "துன்பம்",
+      "மகிழ்ச்சி",
+      "ஆர்வம்",
+      "இன்பம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘இடர்’ என்பதற்கு துன்பம் என்று பொருள்.",
+    "sourceUrl": "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-2-1/",
+    "sourceName": "Samacheer Kalvi Guide — Term 3, Lesson 2.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXT_MIRROR_GUIDE_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_pudhumai_vilakku_q2",
+    "question": "‘ஞானச்சுடர்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "ஞான + சுடர்",
+      "ஞானச் + சுடர்",
+      "ஞானம் + சுடர்",
+      "ஞானி + சுடர்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘ஞானச்சுடர்’ என்பது ‘ஞானம் + சுடர்’ எனப் பிரியும்.",
+    "sourceUrl": "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-2-1/",
+    "sourceName": "Samacheer Kalvi Guide — Term 3, Lesson 2.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXT_MIRROR_GUIDE_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_pudhumai_vilakku_q3",
+    "question": "இன்பு + உருகு என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "இன்பு உருகு",
+      "இன்பும் உருகு",
+      "இன்புருகு",
+      "இன்பருகு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘இன்பு + உருகு’ சேர்ந்து ‘இன்புருகு’ என அமைகிறது.",
+    "sourceUrl": "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-2-1/",
+    "sourceName": "Samacheer Kalvi Guide — Term 3, Lesson 2.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXT_MIRROR_GUIDE_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_pudhumai_vilakku_s1",
+    "question": "பாடலில் அன்பு எதனுடன் உருவகப்படுத்தப்படுகிறது?",
+    "options": [
+      "தகளி",
+      "நெய்",
+      "இடுதிரி",
+      "விளக்கு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘அன்பே தகளியா’ என்ற பாடல் வரி அன்பை அகல்விளக்கின் தகளியாகக் காட்டுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — பாடல் / பொருள்",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_pudhumai_vilakku_s2",
+    "question": "பாடலில் ஆர்வம் எதனுடன் உருவகப்படுத்தப்படுகிறது?",
+    "options": [
+      "தகளி",
+      "நெய்",
+      "இடுதிரி",
+      "விளக்கு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘ஆர்வமே நெய்யாக’ என்ற பாடல் வரி ஆர்வத்தை நெய்யாகக் காட்டுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — பாடல் / பொருள்",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_pudhumai_vilakku_s3",
+    "question": "பாடலில் இனிமையால் உருகும் சிந்தை எதனுடன் உருவகப்படுத்தப்படுகிறது?",
+    "options": [
+      "தகளி",
+      "நெய்",
+      "இடுதிரி",
+      "விளக்கு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘இன்புருகு சிந்தை இடுதிரியா’ என்ற பாடல் வரி சிந்தையை இடுதிரியாகக் காட்டுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — பாடல் / பொருள்",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_pudhumai_vilakku_s4",
+    "question": "பாடலில் ஞானச்சுடர் எதனுடன் தொடர்புபடுத்தப்படுகிறது?",
+    "options": [
+      "தகளி",
+      "நெய்",
+      "இடுதிரி",
+      "விளக்கு"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "‘ஞானச்சுடர் விளக்கு ஏற்றினேன்’ என்ற பாடல் வரி ஞானச்சுடரை விளக்காகக் காட்டுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — பாடல் / பொருள்",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  }
+]
