@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7_tam_t1_u1_1_q1",
+    "question": "‘நெறி’ என்னும் சொல்லின் பொருள் _________.",
+    "options": [
+      "வழி",
+      "குறிக்கோள்",
+      "கொள்கை",
+      "அறம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பாடல் சூழலில் ‘நெறி’ என்பது வழி அல்லது அறவழி என்ற பொருளில் வருகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/01_amudha_thamizh/page_12.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/"
+  },
+  {
+    "id": "7_tam_t1_u1_1_q2",
+    "question": "‘குரலாகும்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது _________.",
+    "options": [
+      "குரல் + யாகும்",
+      "குரல் + ஆகும்",
+      "குர + லாகும்",
+      "குர + ஆகும்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘குரல்’ + ‘ஆகும்’ சேர்ந்து ‘குரலாகும்’ என அமைகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/01_amudha_thamizh/page_12.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/"
+  },
+  {
+    "id": "7_tam_t1_u1_1_q3",
+    "question": "‘வான் + ஒலி’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் _________.",
+    "options": [
+      "வான்ஒலி",
+      "வானொலி",
+      "வாவொலி",
+      "வானெலி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘வான் + ஒலி’ புணர்ந்து ‘வானொலி’ என அமைகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/01_amudha_thamizh/page_12.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-1/"
+  }
+]
