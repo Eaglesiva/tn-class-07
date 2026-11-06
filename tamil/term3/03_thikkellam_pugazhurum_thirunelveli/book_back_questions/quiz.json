@@ -1,0 +1,128 @@
+[
+  {
+    "id": "7_tam_t3_thikkellam_q1",
+    "question": "திருநெல்வேலி _________ மன்னர்களோடு தொடர்பு உடையது.",
+    "options": [
+      "சேர",
+      "சோழ",
+      "பாண்டிய",
+      "பல்லவ"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "திருநெல்வேலி பாண்டிய மன்னர்களோடு தொடர்புடைய நகரமாகும்.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-3/",
+    "sourceName": "TextbookPDF Guide — Term 3, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_thikkellam_q2",
+    "question": "இளங்கோவடிகள் _________ மலைக்கு முதன்மை கொடுத்துப் பாடினார்.",
+    "options": [
+      "இமய",
+      "கொல்லி",
+      "பொதிகை",
+      "விந்திய"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இளங்கோவடிகள் பொதிகை மலைக்குச் சிறப்பிடம் கொடுத்துப் பாடினார்.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-3/",
+    "sourceName": "TextbookPDF Guide — Term 3, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_thikkellam_q3",
+    "question": "திருநெல்வேலி _________ ஆற்றின் கரையில் அமைந்துள்ளது.",
+    "options": [
+      "காவிரி",
+      "வைகை",
+      "தென்பெண்ணை",
+      "தாமிரபரணி"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "திருநெல்வேலி தாமிரபரணி ஆற்றின் கரையில் அமைந்துள்ளது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-3/",
+    "sourceName": "TextbookPDF Guide — Term 3, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_thikkellam_s1",
+    "question": "‘தண்பொருநை’ என்பதற்குச் சரியான பெயர் எது?",
+    "options": [
+      "தாமிரபரணி",
+      "காவிரி",
+      "வைகை",
+      "தென்பெண்ணை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தண்பொருநை என்பது தாமிரபரணி ஆற்றைக் குறிக்கிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-3/",
+    "sourceName": "TextbookPDF Guide — பொருத்துக",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_thikkellam_s2",
+    "question": "‘அக்கசாலை’ என்பது எதனைக் குறிக்கிறது?",
+    "options": [
+      "பொன் நாணயங்கள் உருவாக்கும் இடம்",
+      "முத்துக் குளித்தல் நடைபெறும் இடம்",
+      "குற்றால மலையிடம்",
+      "ஆற்றங்கரை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அக்கசாலை என்பது பொன் நாணயங்கள் உருவாக்கும் இடம்.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-3/",
+    "sourceName": "TextbookPDF Guide — பொருத்துக",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_thikkellam_s3",
+    "question": "‘கொற்கை’ எதற்குச் சிறப்புப் பெற்ற இடமாகக் கூறப்படுகிறது?",
+    "options": [
+      "முத்துக் குளித்தல்",
+      "பொன் நாணயங்கள் உருவாக்குதல்",
+      "நெல் அறுவடை",
+      "மலை அருவி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "கொற்கை முத்துக் குளித்தலுக்குச் சிறப்புப் பெற்ற துறைமுகமாக இருந்தது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-3/",
+    "sourceName": "TextbookPDF Guide — பொருத்துக",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_thikkellam_s4",
+    "question": "‘திரிகூடமலை’ எந்த இடத்தைக் குறிக்கிறது?",
+    "options": [
+      "குற்றாலம்",
+      "பொதிகை",
+      "கொல்லி",
+      "இமயம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "திரிகூடமலை என்பது குற்றாலத்தைக் குறிக்கிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-3/",
+    "sourceName": "TextbookPDF Guide — பொருத்துக",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  }
+]
