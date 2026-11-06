@@ -1,90 +1,70 @@
 # Class 07 Tamil — Term 1 — Step 1/2/3 QA Report
 
 **Audit date:** 2026-11-06  
-**Repository:** [Eaglesiva/tn-class-07](https://github.com/Eaglesiva/tn-class-07)  
+**Repository:** https://github.com/Eaglesiva/tn-class-07  
 **Branch:** `main`  
-**Status:** `PARTIAL — 11 UNITS HAVE STEP ARTIFACTS; 5 TERM 1 UNITS REMAIN`
+**Status:** `STEP_ARTIFACTS_PRESENT — 69 QUIZ RECORDS — EDITION / PDF VISUAL CHECK UNVERIFIED`
 
 ## Scope and evidence
 
-The existing repository question files and unit page manifests were inspected. Missing questions for 1.1, 1.3 and 1.5 were added using the repository page references, the 2025 Term 1 text mirror, and opened third-party Guide answer pages. The mirror and Guides are **not official Government answer keys**.
+Re-audited the current `main` tree after the Term 1 master-sync commit `e9333c5096d575e8780373bb6ab1698d465b46cc`. The earlier 59-record / five-pending-unit status in this report is superseded by this audit.
 
-The repository PDFs are preserved as the primary page references. In this pass the PDF page images could not be independently rendered for visual comparison; therefore exact visual transcription and the current official edition remain unconfirmed.
+All 16 Term 1 lesson folders currently contain `questions.md`, `answers.md`, `quiz.md`, and `quiz.json`. The 11 units with eligible objective / one-mark items contribute 69 records to `tamil/term1/book_back_questions/quiz.json`. Five units correctly have an empty quiz array because their available question sets contain no eligible four-option objective questions (no separate evaluation, open-ended/activity-only, or long-answer-only).
 
-- Text mirror: https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md
-- Edition status for all processed units: `CURRENT_VALIDITY_UNVERIFIED`.
-- Do not treat this report as an official 2026–27 edition certification.
+Evidence references include the repository PDFs and the 2025 Term 1 text mirror. The mirror and third-party Guide pages are not official Government answer keys. Current active-edition confirmation and visual comparison against the repository PDF page images have not been completed. Do not describe this report as official 2026–27 edition certification.
+
+- Edition status for processed units: `CURRENT_VALIDITY_UNVERIFIED`.
+- Repository PDF pages remain preserved.
+- No long-answer model answers were added; existing placeholders and question-source links are retained.
 
 ## Unit-level status
 
-| Unit | Step 1 answer / review status | Step 2 original MCQ | Step 3 transformed MCQ | Placeholder count |
-|---|---|---:|---:|---:|
-| 1.1 எங்கள் தமிழ் | 3 objective answers | 3 | 0 | 4 |
-| 1.2 ஒன்றல்ல இரண்டல்ல | 5 objective answers | 5 | 0 | 6 |
-| 1.3 பேச்சுமொழியும் எழுத்துமொழியும் | 4 MCQ + 5 சரி/தவறு answers | 4 | 0 | 6 |
-| 1.4 ஆளுக்கு ஒரு வேலை | Open / activity prompts only | 0 | 0 | 3 |
-| 1.5 குற்றியலுகரம், குற்றியலிகரம் | 5 odd-word answers; classification held for review | 0 | 5 | 2 |
-| 2.1 காடு | 3 objective answers | 3 | 0 | 7 |
-| 2.2 அப்படியே நிற்கட்டும் அந்த மரம் | 5 objective answers | 5 | 0 | 7 |
-| 2.5 நால்வகைக் குறுக்கங்கள் | 2 confirmed original MCQ; 1 source conflict held; 2 riddles transformed | 2 | 2 | 9 |
-| 2.6 திருக்குறள் | 7 MCQ + 1 prose-to-Kural answer (not quiz) | 7 | 0 | 4 |
-| 3 விடுதலைத் திருநாள் | 6 objective answers | 6 | 0 | 5 |
-| ஓரெழுத்து ஒருமொழி, பகுபதம், பகாப்பதம் | 4 original MCQ + 13 transformed objective items | 4 | 13 | 16 |
-| **TOTAL** |  | **39** | **20** | **69** |
+| Term 1 unit folder | Quiz records | Step 1–3 disposition |
+|---|---:|---|
+| `01_amudha_thamizh` | 3 | Objective answers + quiz |
+| `01_aninizhal_kaadu` | 3 | Objective answers + quiz |
+| `01_naadu_arasu_naadu` | 0 | No separate evaluation established in available text; review note retained |
+| `02_appadiye_nirkattum_antha_maram` | 5 | Objective answers + quiz |
+| `02_ondralla_irandalla` | 5 | Objective answers + quiz |
+| `02_viduthalai_thirunaal` | 6 | Objective answers + quiz |
+| `03_kappaloattiya_tamilar` | 0 | One long/open-ended biography-summary question; placeholders only |
+| `03_pechu_eluthu_mozhi` | 4 | Four original MCQs; true/false items are not mislabelled as four-option MCQs |
+| `03_tamilarin_kappalottiya_kadal` | 10 | Three original MCQs plus eligible one-mark / objective transformations |
+| `04_aalukku_oru_velai` | 0 | Open / activity-only prompts; no eligible quiz item |
+| `04_orezhuthu_orumozhi_pagupatham` | 17 | Four original MCQs plus eligible objective transformations |
+| `04_vilangugal_ulagam` | 0 | One open-ended collection question; placeholders only |
+| `05_kutriyalugaram_kutriyaligaram` | 5 | Eligible objective transformations; disputed classification remains excluded |
+| `05_naalvagai_kurukkangal` | 4 | Eligible objective / riddle transformations |
+| `05_thirukkural_2` | 0 | No separate evaluation established in available text; review note retained |
+| `06_thirukkural` | 7 | Original MCQs; prose-to-Kural question excluded from quiz |
+
+## Term 1 Master Quiz — structural QA
+
+- Master path: `tamil/term1/book_back_questions/quiz.json`.
+- Master records: **69**.
+- Unit Quiz records summed: **69**.
+- Duplicate IDs: **0**.
+- Records without exactly four distinct options: **0**.
+- Records with `correctOptionIndex` outside 0–3: **0**.
+- Records missing `sourceUrl`: **0**.
+- Master JSON parses successfully.
+- Master contains only the 69 records contributed by the unit JSONs in the Term 1 workflow; the 5 empty unit arrays do not contribute records.
+- All 16 lesson folders have the four Step artifacts present.
 
 ## Issues intentionally held back
 
-1. **1.5 குற்றியலுகரம் classification:** the opened Guide classifies ‘ஆறு’ as உயிர்த்தொடர், while the textbook text mirror lists ‘ஆறு’ as an example of நெடில்தொடர். This is marked `REVIEW_REQUIRED_SOURCE_CONFLICT`; no generated Quiz item was created from that disputed table.
-2. **2.5 நால்வகைக் குறுக்கங்கள்:** one original MCQ remains excluded due to a source conflict; it must not be guessed.
-3. **2.6 திருக்குறள்:** the prose-to-Kural question is answered in `answers.md` but excluded from Quiz because a unique correct option was not established.
-4. **ஓரெழுத்து ஒருமொழி:** an image-dependent grid/activity remains outside the Quiz; the Guide page title has a Term 2 label although the repository content is in Term 1, so it is only a secondary answer reference.
-5. **1.3 பேச்சுமொழியும் எழுத்துமொழியும்:** true/false and media-classification answers are recorded in Step 1 but not relabelled as original four-option MCQs or force-converted into four-option items.
+1. **`05_kutriyalugaram_kutriyaligaram` — classification conflict:** the opened Guide classifies ‘ஆறு’ as உயிர்த்தொடர், while the available textbook text mirror lists ‘ஆறு’ as நெடில்தொடர். Keep the disputed classification out of the Quiz and retain `REVIEW_REQUIRED_SOURCE_CONFLICT`.
+2. **`05_naalvagai_kurukkangal`:** one original MCQ remains excluded because the answer conflict is unresolved; do not guess.
+3. **`06_thirukkural`:** the prose-to-Kural response is not included as a four-option Quiz item because a unique correct answer was not established.
+4. **`04_orezhuthu_orumozhi_pagupatham`:** image-dependent grid/activity items remain excluded; do not convert them without inspecting the relevant page image.
+5. **`03_pechu_eluthu_mozhi`:** true/false and media-classification responses remain Step 1 answers, not falsely represented as original four-option MCQs.
 
-## Technical QA
+## Remaining verification
 
-- All 11 processed unit `quiz.json` files parsed successfully.
-- Unit Quiz records: **59**.
-- Term 1 Master Quiz: `tamil/term1/book_back_questions/quiz.json` — updated to 59 records.
-- Master order matches the explicit unit JSON flattening order listed below.
-- Duplicate Quiz IDs: **0**.
-- Records without exactly four distinct options: **0**.
-- Records with invalid `correctOptionIndex` (outside 0–3): **0**.
-- Records missing `sourceUrl`: **0**.
-- All 11 processed units have `questions.md`, `answers.md`, `quiz.md`, and `quiz.json`.
-- Long / open-ended responses are placeholders only; no long model answers were added.
+1. Visually compare the relevant repository PDF pages (cover / imprint, contents, Book Back and any image-dependent table) with a current official textbook source when accessible.
+2. Preserve `CURRENT_VALIDITY_UNVERIFIED` until that comparison is evidence-backed.
+3. Do not re-open completed Term 1 unit work unless a concrete mismatch is found.
+4. Continue with Term 2, then Term 3 using the same Step 1 → Step 2 → Step 3 rules. Split any combined extraction by its actual lesson / page context; never attach another lesson's questions to a folder based only on a similar folder name.
+5. Create `tamil/book_back_questions/quiz.json` only after both Term 2 and Term 3 Master Quizzes are QA-passed.
 
-### Master Quiz order
-
-1. 1.1 எங்கள் தமிழ்
-2. 1.2 ஒன்றல்ல இரண்டல்ல
-3. 1.3 பேச்சுமொழியும் எழுத்துமொழியும்
-4. 1.4 ஆளுக்கு ஒரு வேலை
-5. 1.5 குற்றியலுகரம், குற்றியலிகரம்
-6. 2.1 காடு
-7. 2.2 அப்படியே நிற்கட்டும் அந்த மரம்
-8. 2.5 நால்வகைக் குறுக்கங்கள்
-9. 2.6 திருக்குறள்
-10. விடுதலைத் திருநாள்
-11. ஓரெழுத்து ஒருமொழி, பகுபதம், பகாப்பதம்
-
-## Remaining Term 1 units
-
-The manifest contains further unit folders that still need the four book-back files:
-
-- `03_tamilarin_kappalottiya_kadal`
-- `04_vilangugal_ulagam`
-- `01_naadu_arasu_naadu`
-- `03_kappaloattiya_tamilar`
-- `05_thirukkural_2`
-
-These are still pending; do not mark Term 1 complete.
-
-## Next batches
-
-1. Finish the five remaining Term 1 units and rebuild / QA the Term 1 Master Quiz.
-2. Process all Term 2 units; the current repository has some `questions.md` files, including files explicitly stating no separate book-back evaluation.
-3. Process all Term 3 units; distinguish true evaluation questions from lesson-body text and lessons with no separate evaluation.
-4. Create and verify the full Tamil Master Quiz at `tamil/book_back_questions/quiz.json` only after all three Term Masters are ready.
-5. Keep the official edition status visible as unverified until the relevant official textbook PDF / imprint / contents / Book Back pages are compared.
-
-**Conclusion:** Class 7 Tamil Term 1 is still PARTIAL. Eleven units now have Step 1–3 artifacts, 59 quiz records are synced, and five units remain. Structural Quiz QA passed; official current-edition and PDF image verification remain outstanding.
+**Conclusion:** Term 1's unit artifacts and 69-record Master Quiz are structurally synchronized. Five units have no eligible four-option quiz records for the reasons above. Term 1 can be treated as complete for the currently evidenced Book Back Quiz scope, but current official edition / PDF visual verification remains explicitly unverified.
