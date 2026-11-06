@@ -1,11 +1,11 @@
 # ஏழாம் வகுப்பு தமிழ் — பருவம் 1 — அப்படியே நிற்கட்டும் அந்த மரம்
 
-<badge>PROVISIONAL — EDITION GATE PENDING</badge>
+**நிலை: PROVISIONAL — EDITION GATE PENDING**
 
 - **Question file:** [questions.md](./questions.md)
 - **Textbook PDF in repository:** [பக்கம் 35](../page_35.pdf)
-- **Text mirror:** [Class 7 Tamil Term 1 — 2025 edition]( https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md )
-- **Answer reference:** [Samacheer Kalvi Guide — Chapter 2.2]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/ )
+- **Text mirror:** [Class 7 Tamil Term 1 — 2025 edition](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
+- **Answer reference:** [Samacheer Kalvi Guide — Chapter 2.2](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/)
 - **Edition status:** `OFFICIAL_LISTING_FOUND_PDF_UNVERIFIED`
 
 > இந்த answers draft-ல் Objective விடைகள் third-party Guide-இல் இருந்து எடுக்கப்பட்டு, 2025 பாடநூல் உரை mirror-இல் உள்ள கேள்வி மற்றும் options-உடன் ஒப்பிடப்பட்டுள்ளன. அதிகாரப்பூர்வ 2026–27 PDF-இன் அதே பக்கத்தைப் பார்த்து உறுதிப்படுத்தும் வரை `VERIFIED` எனக் கருதக்கூடாது. பெரிய / திறந்தநிலை வினாக்களுக்கு முழு விடைகள் எழுதப்படவில்லை.
@@ -41,40 +41,40 @@
 
 - **விடை:** ஆ) கோலிக்குண்டு
 - **விளக்கம்:** பாடலில் நாவற்பழங்கள் கருநீலக் கோலிக்குண்டுகளுக்கு உவமையாகக் கூறப்படுகின்றன.
-- **Source:** [Direct answer guide]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/ )
-- **Text reference:** [பாடநூல் உரை mirror]( https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md )
+- **Source:** [Direct answer guide](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/)
+- **Text reference:** [பாடநூல் உரை mirror](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
 - **Verification:** `GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK`
 
 #### 2. ‘சுட்ட பழங்கள்’ என்று குறிப்பிடப்படுபவை _____.
 
 - **விடை:** அ) மண் ஒட்டிய பழங்கள்
 - **விளக்கம்:** பறவைகள், அணில்கள் மற்றும் காற்றால் உதிர்க்கப்பட்டு தரையில் விழும் பழங்களையே இங்கு ‘சுட்ட பழங்கள்’ எனக் குறிப்பிடுகிறது.
-- **Source:** [Direct answer guide]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/ )
-- **Text reference:** [பாடநூல் உரை mirror]( https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md )
+- **Source:** [Direct answer guide](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/)
+- **Text reference:** [பாடநூல் உரை mirror](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
 - **Verification:** `GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK`
 
 #### 3. ‘பெயரறியா’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது _____.
 
 - **விடை:** இ) பெயர் + அறியா
 - **விளக்கம்:** ‘பெயரறியா’ என்பது ‘பெயர் + அறியா’ எனப் பிரிகிறது.
-- **Source:** [Direct answer guide]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/ )
-- **Text reference:** [பாடநூல் உரை mirror]( https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md )
+- **Source:** [Direct answer guide](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/)
+- **Text reference:** [பாடநூல் உரை mirror](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
 - **Verification:** `GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK`
 
 #### 4. ‘மனமில்லை’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது _____.
 
 - **விடை:** ஈ) மனம் + இல்லை
 - **விளக்கம்:** ‘மனமில்லை’ என்பது ‘மனம் + இல்லை’ எனப் பிரிகிறது.
-- **Source:** [Direct answer guide]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/ )
-- **Text reference:** [பாடநூல் உரை mirror]( https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md )
+- **Source:** [Direct answer guide](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/)
+- **Text reference:** [பாடநூல் உரை mirror](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
 - **Verification:** `GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK`
 
 #### 5. நேற்று + இரவு என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் _____.
 
 - **விடை:** ஆ) நேற்றிரவு
 - **விளக்கம்:** ‘நேற்று + இரவு’ சேர்ந்து ‘நேற்றிரவு’ என அமைகிறது.
-- **Source:** [Direct answer guide]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/ )
-- **Text reference:** [பாடநூல் உரை mirror]( https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md )
+- **Source:** [Direct answer guide](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/)
+- **Text reference:** [பாடநூல் உரை mirror](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
 - **Verification:** `GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK`
 
 ### குறுவினா
