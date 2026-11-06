@@ -5,7 +5,7 @@
 - **Question file:** [questions.md](./questions.md)
 - **Textbook PDF in repository:** [பக்கம் 13](../page_13.pdf)
 - **Text mirror:** [Class 7 Tamil Term 1 — 2025 edition](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
-- **Answer reference:** [Samacheer Kalvi Guide — Chapter 1.2]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-ondralla-irandalla-question-answer/ )
+- **Answer reference:** [Samacheer Kalvi Guide — Chapter 1.2](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-ondralla-irandalla-question-answer/)
 - **Edition status:** `OFFICIAL_LISTING_FOUND_PDF_UNVERIFIED`
 
 > ஐந்து Objective விடைகளும் third-party Guide-இல் இருந்து பெற்று, கிடைத்த 2025 பாடநூல் உரை mirror-உடன் cross-check செய்யப்பட்டுள்ளன. அதிகாரப்பூர்வ 2026–27 PDF-இன் page-by-page audit முடியும் வரை இவை இறுதி `VERIFIED` அல்ல. பெரிய / திறந்தநிலை வினாக்களுக்கு முழு விடைகள் எழுதப்படவில்லை.
