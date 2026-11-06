@@ -37,7 +37,7 @@
 - **விடை:** `REVIEW_REQUIRED` — Guide: அ) அரை; பாடநூல் விதி: ஆ) ஒன்று.
 - **விளக்கம்:** பாடநூல் விதிப்படி ஐகாரம் சொல்லின் இடையிலும் இறுதியிலும் ஒரு மாத்திரை அளவில் ஒலிக்கும். ‘வேட்கை’ என்ற சொல்லின் இறுதியில் ஐகாரம் இருப்பதால் ஒரு மாத்திரை எனத் தெரிகிறது. ஆனால் Guide key இதற்கு மாறாக அரை என்கிறது.
 - **Source:** [Textbook text mirror — ஐகாரக்குறுக்கம் விதி மற்றும் Book Back வினா](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
-- **Conflicting source:** [Guide — Chapter 2.5]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/ )
+- **Conflicting source:** [Guide — Chapter 2.5](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/)
 - **Verification:** `REVIEW_REQUIRED_SOURCE_CONFLICT`
 
 #### 2. மகரக் குறுக்கம் இடம்பெறாத சொல் ________.
@@ -119,7 +119,7 @@
 
 - **விடை:** அணில்
 - **விளக்கம்:** மரம் விட்டு மரம் தாவுதல், வளைந்த வால், கொட்டைகள் கொறித்தல், முதுகில் கோடுகள் ஆகியவை அணிலின் பண்புகள்.
-- **Source:** [Direct answer guide]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/ )
+- **Source:** [Direct answer guide](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/)
 - **Verification:** `GUIDE_REFERENCE`
 
 **(ஆ) கொக்கு விடுகதை**
