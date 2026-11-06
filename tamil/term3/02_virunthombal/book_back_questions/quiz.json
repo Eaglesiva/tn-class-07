@@ -1,0 +1,56 @@
+[
+  {
+    "id": "7_tam_t3_virundhombal_q1",
+    "question": "மரம் வளர்த்தால் ______ பெறலாம்.",
+    "options": [
+      "மாறி",
+      "மாரி",
+      "காரி",
+      "பாரி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "மரம் வளர்ப்பதால் மழை பெறலாம்; ‘மாரி’ மழையைக் குறிக்கிறது.",
+    "sourceUrl": "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-1-1/",
+    "sourceName": "Samacheer Kalvi Guide — Term 3, Chapter 1.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_virundhombal_q2",
+    "question": "‘நீருலையில்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "நீரு + உலையில்",
+      "நீர் + இலையில்",
+      "நீர் + உலையில்",
+      "நீரு + இலையில்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘நீருலையில்’ என்பது ‘நீர் + உலையில்’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-1-1/",
+    "sourceName": "Samacheer Kalvi Guide — Term 3, Chapter 1.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_virundhombal_q3",
+    "question": "மாரி + ஒன்று என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "மாரியொன்று",
+      "மாரி ஒன்று",
+      "மாரியின்று",
+      "மாரியன்று"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘மாரி + ஒன்று’ புணர்ந்து ‘மாரியொன்று’ ஆகிறது.",
+    "sourceUrl": "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-1-1/",
+    "sourceName": "Samacheer Kalvi Guide — Term 3, Chapter 1.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXT_CROSSCHECK"
+  }
+]
