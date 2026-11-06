@@ -1,0 +1,78 @@
+[
+  {
+    "id": "7_tam_t3_aagupayer_q1",
+    "question": "பொருளின் பெயர் அதன் உறுப்புக்கு ஆகி வருவது ______.",
+    "options": [
+      "பொருளாகுபெயர்",
+      "சினையாகுபெயர்",
+      "பண்பாகுபெயர்",
+      "இடவாகுபெயர்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பொருளின் பெயர் அதன் உறுப்பைக் குறிக்கும்போது அது பொருளாகுபெயர் எனப்படும்.",
+    "sourceUrl": "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-3-5/",
+    "sourceName": "Samacheer Kalvi — Term 3, Chapter 3.5",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Grammar--Aahu-peyar--Questions-and-Answers_11315/",
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TWO_GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_aagupayer_q2",
+    "question": "‘இந்த வேலையை முடிக்க ஒரு கை குறைகிறது’ என்பது ______.",
+    "options": [
+      "முதலாகுபெயர்",
+      "சினையாகுபெயர்",
+      "தொழிலாகுபெயர்",
+      "பண்பாகுபெயர்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "உறுப்பின் பெயரான ‘கை’ அதனை உடைய ஆளைக் குறிக்கிறது; இது சினையாகுபெயர்.",
+    "sourceUrl": "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-3-5/",
+    "sourceName": "Samacheer Kalvi — Term 3, Chapter 3.5",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Grammar--Aahu-peyar--Questions-and-Answers_11315/",
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TWO_GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_aagupayer_q3",
+    "question": "‘மழை சடசடவெனப் பெய்தது’ என்ற தொடரில் அமைந்துள்ளது ______.",
+    "options": [
+      "அடுக்குத்தொடர்",
+      "இரட்டைக்கிளவி",
+      "தொழிலாகுபெயர்",
+      "பண்பாகுபெயர்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘சடசட’ என்று இரட்டையாக இணைந்து, பிரித்தால் தனிப்பொருள் தராத சொல் இரட்டைக்கிளவி.",
+    "sourceUrl": "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-3-5/",
+    "sourceName": "Samacheer Kalvi — Term 3, Chapter 3.5",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Grammar--Aahu-peyar--Questions-and-Answers_11315/",
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TWO_GUIDE_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_aagupayer_q4",
+    "question": "அடுக்குத்தொடரில் ஒரே சொல் ______ முறை வரை அடுக்கி வரும்.",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "அடுக்குத்தொடரில் ஒரே சொல் இரண்டு முதல் நான்கு முறை வரை அடுக்கி வரும்.",
+    "sourceUrl": "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-3-5/",
+    "sourceName": "Samacheer Kalvi — Term 3, Chapter 3.5",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Grammar--Aahu-peyar--Questions-and-Answers_11315/",
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TWO_GUIDE_TEXT_CROSSCHECK"
+  }
+]
