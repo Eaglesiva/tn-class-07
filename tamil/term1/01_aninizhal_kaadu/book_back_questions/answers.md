@@ -5,7 +5,7 @@
 - **Question file:** [questions.md](./questions.md)
 - **Textbook PDF in repository:** [பக்கம் 32](../page_32.pdf)
 - **Text mirror:** [Class 7 Tamil Term 1 — 2025 edition](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
-- **Answer reference:** [Samacheer Kalvi Guide — Chapter 2.1]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-kaadu-question-answer/ )
+- **Answer reference:** [Samacheer Kalvi Guide — Chapter 2.1](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-kaadu-question-answer/)
 - **Edition status:** `OFFICIAL_LISTING_FOUND_PDF_UNVERIFIED`
 
 > Objective விடைகள் third-party Guide-இல் இருந்து பெறப்பட்டு, 2025 பாடநூல் உரை mirror-இல் உள்ள கேள்வி / options-உடன் ஒப்பிடப்பட்டுள்ளன. அதிகாரப்பூர்வ 2026–27 PDF-ஐத் திறந்து ஒப்பிடும் வரை இந்தப் பதிவுகள் இறுதி `VERIFIED` நிலை அல்ல. திறந்தநிலை / பெரிய வினாக்களுக்கு முழு விடைகள் எழுதப்படவில்லை.
