@@ -5,7 +5,7 @@
 - **Question file:** [questions.md](./questions.md)
 - **Repository PDF:** [பக்கம் 68](../page_68.pdf)
 - **Text reference:** [2025 Term-1 textbook text](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
-- **Answer reference:** [Free TN Books — Lesson 2.5]( https://www.freetnbooks.com/7th-std-tamil-guide-term-2-lesson-2-5/ )
+- **Answer reference:** [Free TN Books — Lesson 2.5](https://www.freetnbooks.com/7th-std-tamil-guide-term-2-lesson-2-5/)
 - **Source caveat:** Answer Guide URL-இன் title Term 2 என்கிறது; 2025 textbook mirror-இல் இந்தப் பாடம் Term 1, இயல் 3-இன் உள்ளடக்கமாக உள்ளது. அதனால் answer Guide-ஐ secondary cross-check ஆகவே பயன்படுத்தியுள்ளோம்.
 - **Edition status:** `OFFICIAL_LISTING_FOUND_PDF_UNVERIFIED`
 
@@ -33,8 +33,8 @@
 
 - **விடை:** ஆ) 42
 - **விளக்கம்:** நன்னூல் ஆசிரியர் பவணந்தி முனிவர் தமிழில் 42 ஓரெழுத்து ஒருமொழிகள் உள்ளன எனக் குறிப்பிடுகிறார்.
-- **Source:** [Answer Guide]( https://www.freetnbooks.com/7th-std-tamil-guide-term-2-lesson-2-5/ )
-- **Text reference:** [2025 Term-1 textbook text]( https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md )
+- **Source:** [Answer Guide](https://www.freetnbooks.com/7th-std-tamil-guide-term-2-lesson-2-5/)
+- **Text reference:** [2025 Term-1 textbook text](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
 - **Verification:** `GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK`
 
 #### 2. ‘எழுதினான்’ என்பது _______.
