@@ -1,0 +1,353 @@
+[
+  {
+    "id": "7_tam_t2_02_azhiyaa_selvam_q1",
+    "question": "ஒருவர் தம் குழந்தைகளுக்குச் சேர்த்து வைக்க வேண்டிய செல்வம் ______.",
+    "options": [
+      "வீடு",
+      "கல்வி",
+      "பொருள்",
+      "அணிகலன்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "நாலடியார் பாடலின் கருத்துப்படி, பிள்ளைகளுக்குச் சேர்த்து வைக்க வேண்டிய அழியாத செல்வம் கல்வி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 text mirror (secondary transcription; not an official answer key)",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-aliya-selvam-question-answer/"
+    ]
+  },
+  {
+    "id": "7_tam_t2_02_azhiyaa_selvam_q4",
+    "question": "‘கேடில்லை’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "கேடி + இல்லை",
+      "கே + இல்லை",
+      "கேள்வி + இல்லை",
+      "கேடு + இல்லை"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "‘கேடு’ + ‘இல்லை’ இணைந்து ‘கேடில்லை’ என அமைகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 text mirror (secondary transcription; not an official answer key)",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-aliya-selvam-question-answer/"
+    ]
+  },
+  {
+    "id": "7_tam_t2_02_azhiyaa_selvam_q5",
+    "question": "எவன் + ஒருவன் என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "எவன் ஒருவன்",
+      "எவன்னொருவன்",
+      "எவனொருவன்",
+      "ஏன்னொருவன்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘எவன் + ஒருவன்’ சேரும்போது ‘எவனொருவன்’ என அமைகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 text mirror (secondary transcription; not an official answer key)",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-aliya-selvam-question-answer/"
+    ]
+  },
+  {
+    "id": "7_tam_t2_art_poem_q1",
+    "question": "மயிலும் மானும் வனத்திற்கு ______ தருகின்றன.",
+    "options": [
+      "களைப்பு",
+      "வனப்பு",
+      "மலைப்பு",
+      "உழைப்பு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "மயிலும் மானும் வனத்திற்கு வனப்பு (அழகு) தருகின்றன.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — ஒரு வேண்டுகோள்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_art_poem_q2",
+    "question": "மிளகாய் வற்றலின் ______ தும்மலை வரவழைக்கும்.",
+    "options": [
+      "நெடி",
+      "காட்சி",
+      "மணம்",
+      "ஓசை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மிளகாய் வற்றலின் நெடி தும்மலை வரவழைக்கும்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — ஒரு வேண்டுகோள்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_art_poem_q3",
+    "question": "அன்னை தான் பெற்ற ______ சிரிப்பில் மகிழ்ச்சி அடைகிறார்.",
+    "options": [
+      "தங்கையின்",
+      "தம்பியின்",
+      "மழலையின்",
+      "கணவனின்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "அன்னை தன் மழலையின் சிரிப்பில் மகிழ்ச்சி அடைகிறார்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — ஒரு வேண்டுகோள்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_art_poem_q4",
+    "question": "‘வனப்பில்லை’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "வனம் + இல்லை",
+      "வனப்பு + இல்லை",
+      "வனப்பு + யில்லை",
+      "வனப் + இல்லை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘வனப்பில்லை’ என்பது ‘வனப்பு + இல்லை’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — ஒரு வேண்டுகோள்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_art_poem_q5",
+    "question": "‘வார்ப்பு + எனில்’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "வார்பெனில்",
+      "வார்ப்பினில்",
+      "வார்ப்பெனில்",
+      "வார்ப்பு எனில்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "பாடநூல் விடைக்குறிப்பில் ‘வார்ப்பெனில்’ எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — ஒரு வேண்டுகோள்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_kirai_q1",
+    "question": "‘ஏறப் பரியாகுமே’ என்னும் தொடரில் ‘பரி’ என்பதன் பொருள் ______.",
+    "options": [
+      "யானை",
+      "குதிரை",
+      "மான்",
+      "மாடு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘பரி’ என்பதன் பொருள் குதிரை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — கீரைப்பாத்தியும் குதிரையும்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_kirai_q2",
+    "question": "பொருந்தாத ஓசை உடைய சொல் ______.",
+    "options": [
+      "பாய்கையால்",
+      "மேன்மையால்",
+      "திரும்புகையில்",
+      "அடிக்கையால்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "மற்ற சொற்களுடன் ஒத்த ஓசை அமைவில்லாதது ‘திரும்புகையில்’.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — கீரைப்பாத்தியும் குதிரையும்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_kirai_q3",
+    "question": "‘வண்கீரை’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "வண் + கீரை",
+      "வண்ணம் + கீரை",
+      "வளம் + கீரை",
+      "வண்மை + கீரை"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "‘வண்கீரை’ என்பது ‘வண்மை + கீரை’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — கீரைப்பாத்தியும் குதிரையும்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_kirai_q4",
+    "question": "‘கட்டி + அடித்தல்’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "கட்டியிடித்தல்",
+      "கட்டியடித்தல்",
+      "கட்டி அடித்தல்",
+      "கட்டுஅடித்தல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘கட்டி + அடித்தல்’ சேர்ந்து ‘கட்டியடித்தல்’ என அமைகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — கீரைப்பாத்தியும் குதிரையும்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_paint_q1",
+    "question": "குகை ஓவியங்களில் வண்ணம் தீட்டப் பயன்பட்ட பொருள்களில் ஒன்று ______.",
+    "options": [
+      "மண்துகள்",
+      "நீர் வண்ணம்",
+      "எண்ணெய் வண்ணம்",
+      "கரிக்கோல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "குகை ஓவியங்களுக்கு மண் மற்றும் கல் துகள்களைக் கொண்டு வண்ணம் தீட்டினர்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பேசும் ஓவியங்கள்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_paint_q2",
+    "question": "நகைச்சுவை உணர்வு வெளிப்படுமாறு வரையப்படும் ஓவியம் ______.",
+    "options": [
+      "குகை ஓவியம்",
+      "சுவர் ஓவியம்",
+      "கண்ணாடி ஓவியம்",
+      "கேலிச்சித்திரம்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "நகைச்சுவை உணர்வு வெளிப்படுமாறு வரையப்படுவது கேலிச்சித்திரம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பேசும் ஓவியங்கள்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_paint_q3",
+    "question": "‘கோட்டோவியம்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "கோடு + ஓவியம்",
+      "கோட்டு + ஓவியம்",
+      "கோட் + டோவியம்",
+      "கோடி + ஓவியம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘கோட்டோவியம்’ என்பது ‘கோடு + ஓவியம்’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பேசும் ஓவியங்கள்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_paint_q4",
+    "question": "‘செப்பேடு’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "செப்பு + ஈடு",
+      "செப்பு + ஓடு",
+      "செப்பு + ஏடு",
+      "செப்பு + யேடு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘செப்பேடு’ என்பது ‘செப்பு + ஏடு’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பேசும் ஓவியங்கள்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_paint_q5",
+    "question": "‘எழுத்து + ஆணி’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "எழுத்துஆணி",
+      "எழுத்தாணி",
+      "எழுத்துதாணி",
+      "எழுதாணி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘எழுத்து + ஆணி’ சேர்ந்து ‘எழுத்தாணி’ என அமைகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பேசும் ஓவியங்கள்",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_thozhirpeyar_q1",
+    "question": "பின்வருவனவற்றுள் விகுதி பெற்ற தொழிற்பெயர் ________.",
+    "options": [
+      "எழுது",
+      "பாடு",
+      "படித்தல்",
+      "நடி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘படி’ என்னும் வினைப்பகுதியுடன் தொழிற்பெயர் விகுதி ‘தல்’ சேர்ந்து ‘படித்தல்’ ஆகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_tk_q1",
+    "question": "________ தீமை உண்டாகும்.",
+    "options": [
+      "செய்யத்தகுந்த செயல்களைச் செய்வதால்",
+      "செய்யத்தகாத செயல்களைச் செய்யாமல் இருப்பதால்",
+      "செய்யத்தகுந்த செயல்களைச் செய்யாமல் இருப்பதால்",
+      "எதுவும் செய்யாமல் இருப்பதால்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "செய்ய வேண்டிய செயல்களைச் செய்யாமல் விடுவதாலும் தீமை உண்டாகும் எனக் குறள் விளக்குகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_tk_q2",
+    "question": "தன்குடியைச் சிறந்த குடியாகச் செய்ய விரும்புபவரிடம் ________ இருக்கக் கூடாது.",
+    "options": [
+      "சோம்பல்",
+      "சுறுசுறுப்பு",
+      "ஏழ்மை",
+      "செல்வம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தன் குடியைச் சிறப்புடையதாக மாற்ற விரும்புபவர் சோம்பலைத் தவிர்க்க வேண்டும்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_tk_q3",
+    "question": "‘எழுத்தென்ப’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ________.",
+    "options": [
+      "எழுத்து + தென்ப",
+      "எழுத்து + என்ப",
+      "எழுத்து + இன்ப",
+      "எழுத் + தென்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘எழுத்தென்ப’ என்பது ‘எழுத்து + என்ப’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_tk_q4",
+    "question": "‘கரைந்துண்ணும்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ________.",
+    "options": [
+      "கரைந்து + இன்னும்",
+      "கரை + துண்ணும்",
+      "கரைந்து + உண்ணும்",
+      "கரை + உண்ணும்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "பாடநூல் விடைக்குறிப்பில் ‘கரைந்து + உண்ணும்’ என்று தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_tk_q5",
+    "question": "‘கற்றனைத்து + ஊறும்’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ________.",
+    "options": [
+      "கற்றனைத்தூறும்",
+      "கற்றனைதூறும்",
+      "கற்றனைத்தீறும்",
+      "கற்றனைத்தோறும்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘கற்றனைத்து + ஊறும்’ சேரும்போது ‘கற்றனைத்தூறும்’ என அமைகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  }
+]
