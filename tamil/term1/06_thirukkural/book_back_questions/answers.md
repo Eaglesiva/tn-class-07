@@ -5,7 +5,7 @@
 - **Question file:** [questions.md](./questions.md)
 - **Textbook PDF in repository:** [பக்கம் 51](../page_51.pdf)
 - **Text mirror:** [Class 7 Tamil Term 1 — 2025 edition](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
-- **Answer reference:** [Samacheer Kalvi Guide — Chapter 2.6]( https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-thirukkural-2-question-answer/ )
+- **Answer reference:** [Samacheer Kalvi Guide — Chapter 2.6](https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-thirukkural-2-question-answer/)
 - **Edition status:** `OFFICIAL_LISTING_FOUND_PDF_UNVERIFIED`
 
 > ஏழு Original Objective விடைகளில் ஆறு விடைகள் Guide-இல் நேரடியாகக் கிடைக்கின்றன; ஏழாவது விடை குறளின் சொற்களையும் முரண்தொடை இலக்கணத்தையும் வைத்து பாடநூல் உரை mirror-இல் cross-check செய்யப்பட்டுள்ளது. அதிகாரப்பூர்வ 2026–27 PDF-இன் page-level audit முடியும் வரை இவை இறுதி `VERIFIED` அல்ல. குறுவினாக்களுக்கு முழு விடைகள் எழுதப்படவில்லை.
@@ -66,7 +66,7 @@
 
 - **விடை:** இ) சொல்லினும் – சொல்லற்க
 - **விளக்கம்:** ‘சொல்லினும்’ (சொன்னாலும்) மற்றும் ‘சொல்லற்க’ (சொல்லாதே) ஆகியவை எதிர்மறை / முரண்பொருள் தரும் சொற்களாக அமைந்துள்ளன.
-- **Source:** [பாடநூல் உரை mirror — குறள் மற்றும் வினா]( https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md )
+- **Source:** [பாடநூல் உரை mirror — குறள் மற்றும் வினா](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
 - **Verification:** `TEXTBOOK_TEXT_MIRROR_CONTEXT_DERIVED`
 
 ### குறுவினா
