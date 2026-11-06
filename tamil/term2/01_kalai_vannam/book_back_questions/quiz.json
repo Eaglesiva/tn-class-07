@@ -5,21 +5,22 @@
     "options": [
       "பதற்றம்",
       "சாந்தம்",
-      "சோர்வு",
+      "சோரவு",
       "வெறுப்பு"
     ],
     "correctOptionIndex": 1,
-    "explanation": "போர் இல்லாத உலகில் அமைதியும் சாந்தமும் நிலவும்.",
-    "sourceUrl": "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/page_31.pdf",
-    "sourceName": "7ஆம் வகுப்பு தமிழ் Term 2 — பாடநூல் பக்கம் 31",
+    "explanation": "ஆதார வினா-விடைப் பக்கத்தில் ‘சாந்தம்’ எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.tamilvithai.com/2026/09/7th-tamil-2nd-term-unit-2-q.html",
+    "sourceName": "தமிழ்விதை — 7th Tamil 2nd Term Unit 2 Q&A (2026)",
     "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/page_31.pdf",
       "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/book_back_questions/questions.md"
     ],
-    "verificationStatus": "REPOSITORY_QUESTION_TEXT_CROSSCHECK"
+    "verificationStatus": "ANSWER_SOURCE_CROSSCHECKED"
   },
   {
     "id": "7_tam_t2_kalai_vannam_q2",
-    "question": "‘முடிச்சிட்டால்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது __________.",
+    "question": "முடிச்சிட்டால் என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது __________.",
     "options": [
       "முடிச்சி + இடல்",
       "முடிச்சி + சிட்டால்",
@@ -27,30 +28,13 @@
       "முடிச்சு + இடல்"
     ],
     "correctOptionIndex": 2,
-    "explanation": "‘முடிச்சிட்டால்’ என்பது ‘முடிச்சு + இட்டால்’ எனப் பிரிகிறது.",
-    "sourceUrl": "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/page_31.pdf",
-    "sourceName": "7ஆம் வகுப்பு தமிழ் Term 2 — பாடநூல் பக்கம் 31",
+    "explanation": "ஆதார வினா-விடைப் பக்கத்தில் ‘முடிச்சு + இட்டால்’ எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.tamilvithai.com/2026/09/7th-tamil-2nd-term-unit-2-q.html",
+    "sourceName": "தமிழ்விதை — 7th Tamil 2nd Term Unit 2 Q&A (2026)",
     "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/page_31.pdf",
       "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/book_back_questions/questions.md"
     ],
-    "verificationStatus": "REPOSITORY_QUESTION_TEXT_CROSSCHECK"
-  },
-  {
-    "id": "7_tam_t2_kalai_vannam_q3",
-    "question": "‘நிறப்பது + அறிந்தும்’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் __________.",
-    "options": [
-      "நிறப்பதறிந்தும்",
-      "நிறப்பதுஅறிந்தும்",
-      "நிறப்பறிந்தும்",
-      "நிறப்பதறிந்தோம்"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "‘நிறப்பது + அறிந்தும்’ சேரும்போது ‘நிறப்பதறிந்தும்’ என அமைகிறது.",
-    "sourceUrl": "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/page_31.pdf",
-    "sourceName": "7ஆம் வகுப்பு தமிழ் Term 2 — பாடநூல் பக்கம் 31",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/book_back_questions/questions.md"
-    ],
-    "verificationStatus": "REPOSITORY_QUESTION_TEXT_CROSSCHECK"
+    "verificationStatus": "ANSWER_SOURCE_CROSSCHECKED"
   }
 ]
