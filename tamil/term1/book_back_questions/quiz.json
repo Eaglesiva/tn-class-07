@@ -260,6 +260,86 @@
     "explanationSourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-appadiye-nirkattum-antha-maram-question-answer/"
   },
   {
+    "id": "7_tam_t1_u2_5_q2",
+    "question": "மகரக் குறுக்கம் இடம்பெறாத சொல் ________.",
+    "options": [
+      "போன்ம்",
+      "மருண்ம்",
+      "பழம் விழுந்தது",
+      "பணம் கிடைத்தது"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "‘போன்ம்’, ‘மருண்ம்’, ‘பழம் விழுந்தது’ ஆகிய எடுத்துக்காட்டுகளில் மகரக் குறுக்கம் இடம்பெறுகிறது; ‘பணம் கிடைத்தது’ என்பதில் அந்தக் குறுக்கம் இல்லை.",
+    "sourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/",
+    "sourceName": "Samacheer Kalvi Guide — Class 7 Tamil, Chapter 2.5",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/05_naalvagai_kurukkangal/page_47.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK",
+    "explanationSourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/"
+  },
+  {
+    "id": "7_tam_t1_u2_5_q3",
+    "question": "சொல்லின் முதலில் மட்டுமே இடம் பெறுவது _______.",
+    "options": [
+      "ஐகாரக் குறுக்கம்",
+      "ஔகாரக் குறுக்கம்",
+      "மகரக் குறுக்கம்",
+      "ஆய்தக் குறுக்கம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "ஔகாரக்குறுக்கம் சொல்லின் முதலில் மட்டுமே வரும்; இடையிலும் இறுதியிலும் வராது.",
+    "sourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/",
+    "sourceName": "Samacheer Kalvi Guide — Class 7 Tamil, Chapter 2.5",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/05_naalvagai_kurukkangal/page_47.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK",
+    "explanationSourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/"
+  },
+  {
+    "id": "7_tam_t1_u2_5_q4",
+    "question": "மரம் விட்டு மரம் தாவுவேன்; வளைந்த வாலுண்டு; கொட்டைகளைக் கொறிப்பேன்; முதுகில் மூன்று கோடுகளை உடையவன். நான் யார்?",
+    "options": [
+      "அணில்",
+      "முயல்",
+      "குரங்கு",
+      "முள்ளம்பன்றி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மரம் விட்டு மரம் தாவுதல், வளைந்த வால், கொட்டைகள் கொறித்தல், முதுகில் கோடுகள் ஆகிய குறிப்புகள் அணிலைக் குறிக்கின்றன.",
+    "sourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/",
+    "sourceName": "Samacheer Kalvi Guide — Class 7 Tamil, Chapter 2.5",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/05_naalvagai_kurukkangal/page_47.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TRANSFORMED_ONE_WORD_RIDDLE",
+    "explanationSourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/"
+  },
+  {
+    "id": "7_tam_t1_u2_5_q5",
+    "question": "வெள்ளையாய் இருப்பேன்; பால் அல்ல. மீன் பிடிப்பேன்; தூண்டில் அல்ல. தவமிருப்பேன்; முனிவரல்லர். நான் யார்?",
+    "options": [
+      "கொக்கு",
+      "வாத்து",
+      "மயில்",
+      "நாரை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "வெள்ளை நிறமும் மீன் பிடிக்கும் இயல்பும் கொண்ட கொக்கைக் குறிக்கும் விடுகதை.",
+    "sourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/",
+    "sourceName": "Samacheer Kalvi Guide — Class 7 Tamil, Chapter 2.5",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/05_naalvagai_kurukkangal/page_47.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TRANSFORMED_ONE_WORD_RIDDLE",
+    "explanationSourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-7th-tamil-guide-naalvagai-kurukkangal-question-answer/"
+  },
+  {
     "id": "7_tam_t1_u2_6_q1",
     "question": "வாய்மை எனப்படுவது ______.",
     "options": [
