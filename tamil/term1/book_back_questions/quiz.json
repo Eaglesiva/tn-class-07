@@ -478,5 +478,125 @@
     ],
     "verificationStatus": "TEXTBOOK_TEXT_MIRROR_CONTEXT_DERIVED",
     "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+  },
+  {
+    "id": "7_tam_t1_u3_1_q1",
+    "question": "வானில் முழுநிலவு அழகாக ______ அளித்தது.",
+    "options": [
+      "தயவு",
+      "தரிசனம்",
+      "துணிவு",
+      "தயக்கம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பாடலில் விடுதலை நாளன்று இந்தியத்தாய் ஆனந்த தரிசனம் அளித்ததாகக் கூறப்படுகிறது.",
+    "sourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html",
+    "sourceName": "7th Standard Tamil — Unit 3 answer reference",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/02_viduthalai_thirunaal/page_56.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK",
+    "explanationSourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html"
+  },
+  {
+    "id": "7_tam_t1_u3_1_q2",
+    "question": "இந்த ______ முழுவதும் போற்றும்படி வாழ்வதே சிறந்த வாழ்வு.",
+    "options": [
+      "வையம்",
+      "வானம்",
+      "ஆழி",
+      "கானகம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘வையம்’ என்பது உலகம்; உலகம் முழுவதும் போற்றும் வகையில் வாழ்வதே சிறந்த வாழ்வு.",
+    "sourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html",
+    "sourceName": "7th Standard Tamil — Unit 3 answer reference",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/02_viduthalai_thirunaal/page_56.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK",
+    "explanationSourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html"
+  },
+  {
+    "id": "7_tam_t1_u3_1_q3",
+    "question": "‘சீவனில்லாமல்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "சீவ + நில்லாமல்",
+      "சீவன் + நில்லாமல்",
+      "சீவன் + இல்லாமல்",
+      "சீவ + இல்லாமல்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘சீவன்’ என்பது உயிர்; ‘சீவன் + இல்லாமல்’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html",
+    "sourceName": "7th Standard Tamil — Unit 3 answer reference",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/02_viduthalai_thirunaal/page_56.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK",
+    "explanationSourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html"
+  },
+  {
+    "id": "7_tam_t1_u3_1_q4",
+    "question": "‘விலங்கொடித்து’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "விலம் + கொடித்து",
+      "விலம் + ஒடித்து",
+      "விலன் + ஒடித்து",
+      "விலங்கு + ஒடித்து"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "‘விலங்கொடித்து’ என்பது ‘விலங்கு + ஒடித்து’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html",
+    "sourceName": "7th Standard Tamil — Unit 3 answer reference",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/02_viduthalai_thirunaal/page_56.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK",
+    "explanationSourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html"
+  },
+  {
+    "id": "7_tam_t1_u3_1_q5",
+    "question": "‘காட்டை + எரித்து’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "காட்டைஎரித்து",
+      "காட்டையெரித்து",
+      "காடுஎரித்து",
+      "காடுயெரித்து"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘காட்டை + எரித்து’ சேரும்போது ‘காட்டையெரித்து’ என அமைகிறது.",
+    "sourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html",
+    "sourceName": "7th Standard Tamil — Unit 3 answer reference",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/02_viduthalai_thirunaal/page_56.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK",
+    "explanationSourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html"
+  },
+  {
+    "id": "7_tam_t1_u3_1_q6",
+    "question": "‘இதம் + தரும்’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "இதந்தரும்",
+      "இதம்தரும்",
+      "இதத்தரும்",
+      "இதைத்தரும்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘இதம் + தரும்’ சேரும்போது ‘இதந்தரும்’ என அமைகிறது.",
+    "sourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html",
+    "sourceName": "7th Standard Tamil — Unit 3 answer reference",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/02_viduthalai_thirunaal/page_56.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_MIRROR_CROSSCHECK",
+    "explanationSourceUrl": "https://www.thamizhpozhil.com/2025/05/7-th-std-tamil-question-and-answers_96.html"
   }
 ]
