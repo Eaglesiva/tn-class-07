@@ -1,8 +1,12 @@
-# 7-ஆம் வகுப்பு தமிழ் - TERM3 - 10 Thirukkural
-## பாடநூல் மதிப்பீடு வினாக்கள் (வினாக்கள் மட்டும்)
+# 7-ஆம் வகுப்பு தமிழ் — பருவம் 3 — திருக்குறள் (இயல் 3)
 
-> **மூலச் சான்று (Source Reference):** [HTML Page](file:///e:/19.03.26/new%20project/tn_school_books/7th/tamil/term3/10_thirukkural/book_back_questions/questions.md)
+> இயல் 3: மானுடம் வெல்லும் · இறுதிப் பகுதி
+> Repository source folder: 06_thirukkural
+> Text cross-check: [2025 Term 3 text mirror](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md)
+> Edition status: CURRENT_VALIDITY_UNVERIFIED.
 
----
+## பாடநூல் மதிப்பீடு
 
-> **பாடநூல் தகவல் குறிப்பு:** இப்பாடத்திற்குப் பாடநூல் மதிப்பீட்டு வினாக்கள் பாடநூலில் தனியாக வழங்கப்படவில்லை.
+இந்தப் பகுதியின் கீழ் திருக்குறள் அதிகாரங்கள் மற்றும் குறட்பாக்கள் தொகுக்கப்பட்டுள்ளன. பாடநூல் உரையில் இப்பகுதிக்கெனத் தனியாக “மதிப்பீடு” / “சரியான விடையைத் தேர்ந்தெடுத்து எழுதுக” Book Back வினாத்தொகுப்பு வழங்கப்படவில்லை.
+
+> திருக்குறள் கருத்துகளை வினாடி வினாவாக நடத்துவது குறித்த பொதுவான ஆசிரியர் வழிகாட்டுதல் உள்ளது; அது மாணவருக்கான பாடநூல் Book Back வினாக்கள் அல்ல. ஆகவே குறட்பாக்களில் இருந்து புதிய MCQ-களை அசல் Book Back எனக் கருதி உருவாக்கவில்லை.
