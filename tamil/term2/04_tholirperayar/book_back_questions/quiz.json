@@ -1,0 +1,17 @@
+[
+  {
+    "id": "7_tam_t2_thozhirpeyar_q1",
+    "question": "பின்வருவனவற்றுள் விகுதி பெற்ற தொழிற்பெயர் ________.",
+    "options": [
+      "எழுது",
+      "பாடு",
+      "படித்தல்",
+      "நடி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘படி’ என்னும் வினைப்பகுதியுடன் தொழிற்பெயர் விகுதி ‘தல்’ சேர்ந்து ‘படித்தல்’ ஆகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  }
+]
