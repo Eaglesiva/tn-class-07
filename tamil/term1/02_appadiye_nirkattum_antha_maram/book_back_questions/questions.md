@@ -6,7 +6,7 @@
 >
 > **பாடநூல் PDF (repository copy):** [பக்கம் 35 — PDF](../page_35.pdf)
 >
-> **உரை ஒப்பீட்டு ஆதாரம் (third-party text mirror):** [Class 7 Tamil Term 1 — 2025 edition text]( https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md )
+> **உரை ஒப்பீட்டு ஆதாரம் (third-party text mirror):** [Class 7 Tamil Term 1 — 2025 edition text](https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md)
 >
 > **பதிப்பு நிலை:** `OFFICIAL_LISTING_FOUND_PDF_UNVERIFIED`
 
