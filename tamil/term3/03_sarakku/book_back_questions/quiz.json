@@ -1,0 +1,146 @@
+[
+  {
+    "id": "7_tam_t3_vayalum_vazhvu_q1",
+    "question": "உழவர் சேற்று வயலில் ______ நடுவர்.",
+    "options": [
+      "செடி",
+      "பயிர்",
+      "மரம்",
+      "நாற்று"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "உழவர்கள் சேற்று வயலில் நாற்று நடுவர்.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-2/",
+    "sourceName": "TextbookPDF Guide — Term 3, Chapter 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_vayalum_vazhvu_q2",
+    "question": "வயலில் விளைந்து முற்றிய நெற்பயிர்களை ______ செய்வர்.",
+    "options": [
+      "அறுவடை",
+      "உழவு",
+      "நடவு",
+      "விற்பனை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "முற்றிய நெற்பயிர்களை அறுவடை செய்வர்.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-2/",
+    "sourceName": "TextbookPDF Guide — Term 3, Chapter 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_vayalum_vazhvu_q3",
+    "question": "‘தேர்ந்தெடுத்து’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "தேர் + எடுத்து",
+      "தேர்ந்து + தெடுத்து",
+      "தேர்ந்தது + அடுத்து",
+      "தேர்ந்து + எடுத்து"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "‘தேர்ந்தெடுத்து’ என்பது ‘தேர்ந்து + எடுத்து’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-2/",
+    "sourceName": "TextbookPDF Guide — Term 3, Chapter 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_vayalum_vazhvu_q4",
+    "question": "‘ஓடை + எல்லாம்’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "ஓடைஎல்லாம்",
+      "ஓடையெல்லாம்",
+      "ஓட்டையெல்லாம்",
+      "ஓடெல்லாம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘ஓடை + எல்லாம்’ புணர்ந்து ‘ஓடையெல்லாம்’ ஆகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-2/",
+    "sourceName": "TextbookPDF Guide — Term 3, Chapter 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXT_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_vayalum_vazhvu_s1",
+    "question": "‘நாற்று’ என்பதற்குப் பொருத்தமான செயல் எது?",
+    "options": [
+      "நடுதல்",
+      "பறித்தல்",
+      "அறுத்தல்",
+      "பாய்ச்சுதல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "நாற்று நடப்படுகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-2/",
+    "sourceName": "TextbookPDF Guide — பொருத்துக",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_vayalum_vazhvu_s2",
+    "question": "‘நீர்’ என்பதற்குப் பொருத்தமான செயல் எது?",
+    "options": [
+      "பாய்ச்சுதல்",
+      "நடுதல்",
+      "அறுத்தல்",
+      "பறித்தல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "நீர் வயலுக்குப் பாய்ச்சப்படுகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-2/",
+    "sourceName": "TextbookPDF Guide — பொருத்துக",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_vayalum_vazhvu_s3",
+    "question": "‘கதிர்’ என்பதற்குப் பொருத்தமான செயல் எது?",
+    "options": [
+      "அறுத்தல்",
+      "நடுதல்",
+      "பாய்ச்சுதல்",
+      "பறித்தல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "கதிர் அறுக்கப்படுகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-2/",
+    "sourceName": "TextbookPDF Guide — பொருத்துக",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_vayalum_vazhvu_s4",
+    "question": "‘களை’ என்பதற்குப் பொருத்தமான செயல் எது?",
+    "options": [
+      "பறித்தல்",
+      "நடுதல்",
+      "பாய்ச்சுதல்",
+      "அறுத்தல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "களை பறிக்கப்படுகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-1-2/",
+    "sourceName": "TextbookPDF Guide — பொருத்துக",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  }
+]
