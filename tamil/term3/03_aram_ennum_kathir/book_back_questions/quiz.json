@@ -1,0 +1,136 @@
+[
+  {
+    "id": "7_tam_t3_aram_ennum_kathir_q1",
+    "question": "காந்தியடிகள் எப்போதும் ________ப் பேசினார்.",
+    "options": [
+      "வன்சொற்களை",
+      "அரசியலை",
+      "கதைகளை",
+      "வாய்மையை"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "பாடலின் கருத்தும் வழிகாட்டி விடையும் வாய்மையை என உறுதிப்படுத்துகின்றன.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-2-2/",
+    "sourceName": "TextbookPDF Guide — Term 3, Lesson 2.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+      "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-2-2/"
+    ],
+    "verificationStatus": "TWO_GUIDE_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_aram_ennum_kathir_q2",
+    "question": "‘இன்சொல்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ________.",
+    "options": [
+      "இனிய + சொல்",
+      "இன்மை + சொல்",
+      "இனிமை + சொல்",
+      "இன் + சொல்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "வழிகாட்டி ஆதாரங்கள் ‘இனிமை + சொல்’ எனத் தருகின்றன.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-2-2/",
+    "sourceName": "TextbookPDF Guide — Term 3, Lesson 2.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+      "https://samacheerkalvi.guru/samacheer-kalvi-7th-tamil-solutions-term-3-chapter-2-2/"
+    ],
+    "verificationStatus": "TWO_GUIDE_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_aram_ennum_kathir_q3",
+    "question": "அறம் + கதிர் என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ________.",
+    "options": [
+      "அற கதிர்",
+      "அறுகதிர்",
+      "அறக்கதிர்",
+      "அறம்கதிர்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘அறம் + கதிர்’ சேர்ந்து ‘அறக்கதிர்’ என அமைகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-2-2/",
+    "sourceName": "TextbookPDF Guide — Term 3, Lesson 2.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXT_MIRROR_GUIDE_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_aram_ennum_kathir_q4",
+    "question": "‘இளமை’ என்னும் சொல்லின் எதிர்ச்சொல் ________.",
+    "options": [
+      "முதுமை",
+      "புதுமை",
+      "தனிமை",
+      "இனிமை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘இளமை’ என்பதன் எதிர்ச்சொல் ‘முதுமை’.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-3-lesson-2-2/",
+    "sourceName": "TextbookPDF Guide — Term 3, Lesson 2.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXT_MIRROR_GUIDE_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t3_aram_ennum_kathir_s1",
+    "question": "கவிதையில் விளைநிலமாக உருவகப்படுத்தப்படுவது எது?",
+    "options": [
+      "இன்சொல்",
+      "ஈகை",
+      "வன்சொல்",
+      "வாய்மை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘இன்சொல் விளைநிலனா’ என்ற பாடல் வரி இன்சொல்லை விளைநிலமாகக் காட்டுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — பாடல் / பொருள்",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_aram_ennum_kathir_s2",
+    "question": "கவிதையில் விதையாக உருவகப்படுத்தப்படுவது எது?",
+    "options": [
+      "இன்சொல்",
+      "ஈகை",
+      "வன்சொல்",
+      "வாய்மை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘ஈதலே வித்தாக’ என்ற பாடல் வரி ஈகையை விதையாகக் காட்டுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — பாடல் / பொருள்",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_aram_ennum_kathir_s3",
+    "question": "கவிதையில் நீக்கவேண்டிய களையாக உருவகப்படுத்தப்படுவது எது?",
+    "options": [
+      "இன்சொல்",
+      "ஈகை",
+      "வன்சொல்",
+      "வாய்மை"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘வன்சொல் களைகட்டு’ என்ற பாடல் வரி வன்சொல்லைக் களையாகக் காட்டுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — பாடல் / பொருள்",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  },
+  {
+    "id": "7_tam_t3_aram_ennum_kathir_s4",
+    "question": "கவிதையில் எருவாக உருவகப்படுத்தப்படுவது எது?",
+    "options": [
+      "இன்சொல்",
+      "ஈகை",
+      "வன்சொல்",
+      "வாய்மை"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "‘வாய்மை எருவட்டி’ என்ற பாடல் வரி வாய்மையை எருவாகக் காட்டுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_3_-_2025_Edition.md",
+    "sourceName": "2025 Term 3 text mirror — பாடல் / பொருள்",
+    "verificationStatus": "STEP3_TRANSFORMED_FROM_MATCHING"
+  }
+]
