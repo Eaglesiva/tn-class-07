@@ -1,5 +1,205 @@
 [
   {
+    "id": "7_tam_t2_kalai_vannam_q1",
+    "question": "போர் இல்லாத உலகில் __________ நிலவும்.",
+    "options": [
+      "பதற்றம்",
+      "சாந்தம்",
+      "சோரவு",
+      "வெறுப்பு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "ஆதார வினா-விடைப் பக்கத்தில் ‘சாந்தம்’ எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.tamilvithai.com/2026/09/7th-tamil-2nd-term-unit-2-q.html",
+    "sourceName": "தமிழ்விதை — 7th Tamil 2nd Term Unit 2 Q&A (2026)",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/page_31.pdf",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/book_back_questions/questions.md"
+    ],
+    "verificationStatus": "ANSWER_SOURCE_CROSSCHECKED"
+  },
+  {
+    "id": "7_tam_t2_kalai_vannam_q2",
+    "question": "முடிச்சிட்டால் என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது __________.",
+    "options": [
+      "முடிச்சி + இடல்",
+      "முடிச்சி + சிட்டால்",
+      "முடிச்சு + இட்டால்",
+      "முடிச்சு + இடல்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "ஆதார வினா-விடைப் பக்கத்தில் ‘முடிச்சு + இட்டால்’ எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.tamilvithai.com/2026/09/7th-tamil-2nd-term-unit-2-q.html",
+    "sourceName": "தமிழ்விதை — 7th Tamil 2nd Term Unit 2 Q&A (2026)",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/page_31.pdf",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/book_back_questions/questions.md"
+    ],
+    "verificationStatus": "ANSWER_SOURCE_CROSSCHECKED"
+  },
+  {
+    "id": "7_tam_t2_inbathamil_q1",
+    "question": "பெண்களுக்கு நிகராகப் பாரதிதாசன் கூறுவது ______.",
+    "options": [
+      "மயில்",
+      "குயில்",
+      "கிளி",
+      "அன்னம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பாடலில் ஆடும் மயில் போன்ற பெண்கள் எனக் குறிப்பிடப்படுவதால் விடை மயில்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
+    ],
+    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t2_inbathamil_q2",
+    "question": "பின்வருவனவற்றுள் ‘மலை’யைக் குறிக்கும் சொல் ______.",
+    "options": [
+      "வெற்பு",
+      "காடு",
+      "கழனி",
+      "புவி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘வெற்பு’ என்பதன் பொருள் மலை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
+    ],
+    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t2_inbathamil_q3",
+    "question": "‘ஏடெடுத்தேன்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "ஏடெடு + தேன்",
+      "ஏட்டு + எடுத்தேன்",
+      "ஏடு + எடுத்தேன்",
+      "ஏ + டெடுத்தேன்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘ஏடெடுத்தேன்’ என்பது ‘ஏடு + எடுத்தேன்’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
+    ],
+    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t2_inbathamil_q4",
+    "question": "‘துயின்றிருந்தார்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "துயின்று + இருந்தார்",
+      "துயில் + இருந்தார்",
+      "துயின்றி + இருந்தார்",
+      "துயின் + இருந்தார்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘துயின்றிருந்தார்’ என்பது ‘துயின்று + இருந்தார்’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
+    ],
+    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t2_inbathamil_q5",
+    "question": "‘என்று + உரைக்கும்’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "என்று உரைக்கும்",
+      "என்றிரைக்கும்",
+      "என்றரைக்கும்",
+      "என்றுரைக்கும்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "‘என்று + உரைக்கும்’ சேர்ந்து ‘என்றுரைக்கும்’ என அமைகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
+    ],
+    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t2_inbathamil_match_q1",
+    "question": "‘கழனி’ என்பதன் பொருத்தமான பொருள் எது?",
+    "options": [
+      "கதிரவன்",
+      "மேகம்",
+      "சமம்",
+      "வயல்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "பாடநூல் பொருத்துக விடைக்குறிப்பில் ‘கழனி – வயல்’ எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி, பொருத்துக",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_MATCHING"
+  },
+  {
+    "id": "7_tam_t2_inbathamil_match_q2",
+    "question": "‘நிகர்’ என்பதன் பொருத்தமான பொருள் எது?",
+    "options": [
+      "கதிரவன்",
+      "மேகம்",
+      "சமம்",
+      "வயல்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "பாடநூல் பொருத்துக விடைக்குறிப்பில் ‘நிகர் – சமம்’ எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி, பொருத்துக",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_MATCHING"
+  },
+  {
+    "id": "7_tam_t2_inbathamil_match_q3",
+    "question": "‘பரிதி’ என்பதன் பொருத்தமான பொருள் எது?",
+    "options": [
+      "கதிரவன்",
+      "மேகம்",
+      "சமம்",
+      "வயல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பாடநூல் பொருத்துக விடைக்குறிப்பில் ‘பரிதி – கதிரவன்’ எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி, பொருத்துக",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_MATCHING"
+  },
+  {
+    "id": "7_tam_t2_inbathamil_match_q4",
+    "question": "‘முகில்’ என்பதன் பொருத்தமான பொருள் எது?",
+    "options": [
+      "கதிரவன்",
+      "மேகம்",
+      "சமம்",
+      "வயல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பாடநூல் பொருத்துக விடைக்குறிப்பில் ‘முகில் – மேகம்’ எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி, பொருத்துக",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_MATCHING"
+  },
+  {
     "id": "7_tam_t2_02_azhiyaa_selvam_q1",
     "question": "ஒருவர் தம் குழந்தைகளுக்குச் சேர்த்து வைக்க வேண்டிய செல்வம் ______.",
     "options": [
@@ -261,294 +461,6 @@
     "additionalSourceUrls": []
   },
   {
-    "id": "7_tam_t2_thozhirpeyar_q1",
-    "question": "பின்வருவனவற்றுள் விகுதி பெற்ற தொழிற்பெயர் ________.",
-    "options": [
-      "எழுது",
-      "பாடு",
-      "படித்தல்",
-      "நடி"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "‘படி’ என்னும் வினைப்பகுதியுடன் தொழிற்பெயர் விகுதி ‘தல்’ சேர்ந்து ‘படித்தல்’ ஆகிறது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror",
-    "additionalSourceUrls": []
-  },
-  {
-    "id": "7_tam_t2_tk_q1",
-    "question": "________ தீமை உண்டாகும்.",
-    "options": [
-      "செய்யத்தகுந்த செயல்களைச் செய்வதால்",
-      "செய்யத்தகாத செயல்களைச் செய்யாமல் இருப்பதால்",
-      "செய்யத்தகுந்த செயல்களைச் செய்யாமல் இருப்பதால்",
-      "எதுவும் செய்யாமல் இருப்பதால்"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "செய்ய வேண்டிய செயல்களைச் செய்யாமல் விடுவதாலும் தீமை உண்டாகும் எனக் குறள் விளக்குகிறது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror",
-    "additionalSourceUrls": []
-  },
-  {
-    "id": "7_tam_t2_tk_q2",
-    "question": "தன்குடியைச் சிறந்த குடியாகச் செய்ய விரும்புபவரிடம் ________ இருக்கக் கூடாது.",
-    "options": [
-      "சோம்பல்",
-      "சுறுசுறுப்பு",
-      "ஏழ்மை",
-      "செல்வம்"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "தன் குடியைச் சிறப்புடையதாக மாற்ற விரும்புபவர் சோம்பலைத் தவிர்க்க வேண்டும்.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror",
-    "additionalSourceUrls": []
-  },
-  {
-    "id": "7_tam_t2_tk_q3",
-    "question": "‘எழுத்தென்ப’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ________.",
-    "options": [
-      "எழுத்து + தென்ப",
-      "எழுத்து + என்ப",
-      "எழுத்து + இன்ப",
-      "எழுத் + தென்"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "‘எழுத்தென்ப’ என்பது ‘எழுத்து + என்ப’ எனப் பிரிகிறது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror",
-    "additionalSourceUrls": []
-  },
-  {
-    "id": "7_tam_t2_tk_q4",
-    "question": "‘கரைந்துண்ணும்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ________.",
-    "options": [
-      "கரைந்து + இன்னும்",
-      "கரை + துண்ணும்",
-      "கரைந்து + உண்ணும்",
-      "கரை + உண்ணும்"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "பாடநூல் விடைக்குறிப்பில் ‘கரைந்து + உண்ணும்’ என்று தரப்பட்டுள்ளது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror",
-    "additionalSourceUrls": []
-  },
-  {
-    "id": "7_tam_t2_tk_q5",
-    "question": "‘கற்றனைத்து + ஊறும்’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ________.",
-    "options": [
-      "கற்றனைத்தூறும்",
-      "கற்றனைதூறும்",
-      "கற்றனைத்தீறும்",
-      "கற்றனைத்தோறும்"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "‘கற்றனைத்து + ஊறும்’ சேரும்போது ‘கற்றனைத்தூறும்’ என அமைகிறது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror",
-    "additionalSourceUrls": []
-  },
-  {
-    "id": "7_tam_t2_kalai_vannam_q1",
-    "question": "போர் இல்லாத உலகில் __________ நிலவும்.",
-    "options": [
-      "பதற்றம்",
-      "சாந்தம்",
-      "சோர்வு",
-      "வெறுப்பு"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "போர் இல்லாத உலகில் அமைதியும் சாந்தமும் நிலவும்.",
-    "sourceUrl": "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/page_31.pdf",
-    "sourceName": "7ஆம் வகுப்பு தமிழ் Term 2 — பாடநூல் பக்கம் 31",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/book_back_questions/questions.md"
-    ],
-    "verificationStatus": "REPOSITORY_QUESTION_TEXT_CROSSCHECK"
-  },
-  {
-    "id": "7_tam_t2_kalai_vannam_q2",
-    "question": "‘முடிச்சிட்டால்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது __________.",
-    "options": [
-      "முடிச்சி + இடல்",
-      "முடிச்சி + சிட்டால்",
-      "முடிச்சு + இட்டால்",
-      "முடிச்சு + இடல்"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "‘முடிச்சிட்டால்’ என்பது ‘முடிச்சு + இட்டால்’ எனப் பிரிகிறது.",
-    "sourceUrl": "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/page_31.pdf",
-    "sourceName": "7ஆம் வகுப்பு தமிழ் Term 2 — பாடநூல் பக்கம் 31",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_kalai_vannam/book_back_questions/questions.md"
-    ],
-    "verificationStatus": "REPOSITORY_QUESTION_TEXT_CROSSCHECK"
-  },
-  {
-    "id": "7_tam_t2_inbathamil_q1",
-    "question": "பெண்களுக்கு நிகராகப் பாரதிதாசன் கூறுவது ______.",
-    "options": [
-      "மயில்",
-      "குயில்",
-      "கிளி",
-      "அன்னம்"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "பாடலில் ஆடும் மயில் போன்ற பெண்கள் எனக் குறிப்பிடப்படுவதால் விடை மயில்.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
-    ],
-    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
-  },
-  {
-    "id": "7_tam_t2_inbathamil_q2",
-    "question": "பின்வருவனவற்றுள் ‘மலை’யைக் குறிக்கும் சொல் ______.",
-    "options": [
-      "வெற்பு",
-      "காடு",
-      "கழனி",
-      "புவி"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "‘வெற்பு’ என்பதன் பொருள் மலை.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
-    ],
-    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
-  },
-  {
-    "id": "7_tam_t2_inbathamil_q3",
-    "question": "‘ஏடெடுத்தேன்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
-    "options": [
-      "ஏடெடு + தேன்",
-      "ஏட்டு + எடுத்தேன்",
-      "ஏடு + எடுத்தேன்",
-      "ஏ + டெடுத்தேன்"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "‘ஏடெடுத்தேன்’ என்பது ‘ஏடு + எடுத்தேன்’ எனப் பிரிகிறது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
-    ],
-    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
-  },
-  {
-    "id": "7_tam_t2_inbathamil_q4",
-    "question": "‘துயின்றிருந்தார்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
-    "options": [
-      "துயின்று + இருந்தார்",
-      "துயில் + இருந்தார்",
-      "துயின்றி + இருந்தார்",
-      "துயின் + இருந்தார்"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "‘துயின்றிருந்தார்’ என்பது ‘துயின்று + இருந்தார்’ எனப் பிரிகிறது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
-    ],
-    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
-  },
-  {
-    "id": "7_tam_t2_inbathamil_q5",
-    "question": "‘என்று + உரைக்கும்’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
-    "options": [
-      "என்று உரைக்கும்",
-      "என்றிரைக்கும்",
-      "என்றரைக்கும்",
-      "என்றுரைக்கும்"
-    ],
-    "correctOptionIndex": 3,
-    "explanation": "‘என்று + உரைக்கும்’ சேர்ந்து ‘என்றுரைக்கும்’ என அமைகிறது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
-    ],
-    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
-  },
-  {
-    "id": "7_tam_t2_inbathamil_match_q1",
-    "question": "‘கழனி’ என்பதன் பொருத்தமான பொருள் எது?",
-    "options": [
-      "கதிரவன்",
-      "மேகம்",
-      "சமம்",
-      "வயல்"
-    ],
-    "correctOptionIndex": 3,
-    "explanation": "பாடநூல் பொருத்துக விடைக்குறிப்பில் ‘கழனி – வயல்’ எனத் தரப்பட்டுள்ளது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி, பொருத்துக",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
-    ],
-    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_MATCHING"
-  },
-  {
-    "id": "7_tam_t2_inbathamil_match_q2",
-    "question": "‘நிகர்’ என்பதன் பொருத்தமான பொருள் எது?",
-    "options": [
-      "கதிரவன்",
-      "மேகம்",
-      "சமம்",
-      "வயல்"
-    ],
-    "correctOptionIndex": 2,
-    "explanation": "பாடநூல் பொருத்துக விடைக்குறிப்பில் ‘நிகர் – சமம்’ எனத் தரப்பட்டுள்ளது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி, பொருத்துக",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
-    ],
-    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_MATCHING"
-  },
-  {
-    "id": "7_tam_t2_inbathamil_match_q3",
-    "question": "‘பரிதி’ என்பதன் பொருத்தமான பொருள் எது?",
-    "options": [
-      "கதிரவன்",
-      "மேகம்",
-      "சமம்",
-      "வயல்"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "பாடநூல் பொருத்துக விடைக்குறிப்பில் ‘பரிதி – கதிரவன்’ எனத் தரப்பட்டுள்ளது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி, பொருத்துக",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
-    ],
-    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_MATCHING"
-  },
-  {
-    "id": "7_tam_t2_inbathamil_match_q4",
-    "question": "‘முகில்’ என்பதன் பொருத்தமான பொருள் எது?",
-    "options": [
-      "கதிரவன்",
-      "மேகம்",
-      "சமம்",
-      "வயல்"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "பாடநூல் பொருத்துக விடைக்குறிப்பில் ‘முகில் – மேகம்’ எனத் தரப்பட்டுள்ளது.",
-    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
-    "sourceName": "2025 Term 2 Tamil text mirror — இன்பத்தமிழ்க் கல்வி, பொருத்துக",
-    "additionalSourceUrls": [
-      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term2/01_othuvathu_ozhiyal/page_11.pdf"
-    ],
-    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_MATCHING"
-  },
-  {
     "id": "7_tam_t2_vaazhvikum_q1",
     "question": "காலத்தின் அருமையைக் கூறும் திருக்குறள் அதிகாரம் ______.",
     "options": [
@@ -637,5 +549,293 @@
       "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/03_thayirlai_thottapattu"
     ],
     "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t2_thozhirpeyar_q1",
+    "question": "பின்வருவனவற்றுள் விகுதி பெற்ற தொழிற்பெயர் ________.",
+    "options": [
+      "எழுது",
+      "பாடு",
+      "படித்தல்",
+      "நடி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘படி’ என்னும் வினைப்பகுதியுடன் தொழிற்பெயர் விகுதி ‘தல்’ சேர்ந்து ‘படித்தல்’ ஆகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_q1",
+    "question": "நன்னூலின்படி தமிழிலுள்ள ஓரெழுத்து ஒருமொழிகளின் எண்ணிக்கை ______.",
+    "options": [
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "நன்னூல் தமிழில் 42 ஓரெழுத்து ஒருமொழிகள் உள்ளன எனக் குறிப்பிடுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — ஓரெழுத்து ஒருமொழி, பகுபதம், பகாப்பதம்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_q2",
+    "question": "‘எழுதினான்’ என்பது ______.",
+    "options": [
+      "பெயர்ப்பகுபதம்",
+      "வினைப்பகுபதம்",
+      "பெயர்ப்பகாப்பதம்",
+      "வினைப்பகாப்பதம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘எழுதினான்’ என்பது உறுப்புகளாகப் பிரிக்கக்கூடிய வினைச்சொல்; எனவே வினைப்பகுபதம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — ஓரெழுத்து ஒருமொழி, பகுபதம், பகாப்பதம்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_q3",
+    "question": "பெயர்ப்பகுபதம் ______ வகைப்படும்.",
+    "options": [
+      "நான்கு",
+      "ஐந்து",
+      "ஆறு",
+      "ஏழு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "பெயர்ப்பகுபதம் பொருள், இடம், காலம், சினை, பண்பு, தொழில் என ஆறு வகைப்படும்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — ஓரெழுத்து ஒருமொழி, பகுபதம், பகாப்பதம்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_q4",
+    "question": "காலத்தைக் காட்டும் பகுபத உறுப்பு ______.",
+    "options": [
+      "பகுதி",
+      "விகுதி",
+      "இடைநிலை",
+      "சந்தி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "பகுதிக்கும் விகுதிக்கும் இடையில் அமைந்து காலம் அல்லது எதிர்மறையைக் காட்டுவது இடைநிலை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — ஓரெழுத்து ஒருமொழி, பகுபதம், பகாப்பதம்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "THIRD_PARTY_TEXT_MIRROR_CROSSCHECK"
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_part1",
+    "question": "‘போ’ என்னும் பகுபத உறுப்பின் வகை எது?",
+    "options": [
+      "பகுதி",
+      "சந்தி",
+      "இடைநிலை",
+      "விகுதி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘போவாள்’ என்பதில் ‘போ’ முதன்மையான பொருளைத் தரும் பகுதி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பகுபத உறுப்புகள்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_ONE_MARK"
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_part2",
+    "question": "‘போவாள்’ என்னும் சொல்லில் ‘வ்’ என்பது எந்த உறுப்பு?",
+    "options": [
+      "பகுதி",
+      "சந்தி",
+      "இடைநிலை",
+      "விகுதி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பகுதி மற்றும் இடைநிலைக்கு இடையில் வரும் மெய்யெழுத்து சந்தி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பகுபத உறுப்புகள்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_ONE_MARK"
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_part3",
+    "question": "‘போவாள்’ என்னும் சொல்லில் ‘ஆள்’ என்பது எதைக் குறிக்கும்?",
+    "options": [
+      "பெண்பால் வினைமுற்று விகுதி",
+      "ஆண்பால் வினைமுற்று விகுதி",
+      "இறந்தகால இடைநிலை",
+      "பகுதி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘ஆள்’ பெண்பால் வினைமுற்று விகுதி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பகுபத உறுப்புகள்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_ONE_MARK"
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_part4",
+    "question": "‘நடக்கின்றான்’ என்னும் சொல்லில் ‘நட’ என்பது எந்த உறுப்பு?",
+    "options": [
+      "பகுதி",
+      "சந்தி",
+      "இடைநிலை",
+      "விகுதி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘நட’ வினைப்பகுபதத்தின் பகுதி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பகுபத உறுப்புகள்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_ONE_MARK"
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_part5",
+    "question": "‘நடக்கின்றான்’ என்னும் சொல்லில் ‘க்’ என்பது எந்த உறுப்பு?",
+    "options": [
+      "பகுதி",
+      "சந்தி",
+      "இடைநிலை",
+      "விகுதி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘க்’ பகுதிக்கும் இடைநிலைக்கும் இடையில் அமைந்த சந்தி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பகுபத உறுப்புகள்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_ONE_MARK"
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_part6",
+    "question": "‘நடக்கின்றான்’ என்னும் சொல்லில் ‘கின்று’ என்பது எந்த உறுப்பு?",
+    "options": [
+      "பகுதி",
+      "சந்தி",
+      "நிகழ்கால இடைநிலை",
+      "ஆண்பால் விகுதி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘கின்று’ நிகழ்காலத்தைக் காட்டும் இடைநிலை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பகுபத உறுப்புகள்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_ONE_MARK"
+  },
+  {
+    "id": "7_tam_t2_orezhuthu_part7",
+    "question": "‘நடக்கின்றான்’ என்னும் சொல்லில் ‘ஆன்’ என்பது எதைக் குறிக்கும்?",
+    "options": [
+      "பெண்பால் வினைமுற்று விகுதி",
+      "ஆண்பால் வினைமுற்று விகுதி",
+      "நிகழ்கால இடைநிலை",
+      "சந்தி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘ஆன்’ ஆண்பால் வினைமுற்று விகுதி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/raw/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror — பகுபத உறுப்புகள்",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-07/tree/main/tamil/term2/05_ilakkiya_vagai_sollgal"
+    ],
+    "verificationStatus": "TRANSFORMED_FROM_TEXTBOOK_ONE_MARK"
+  },
+  {
+    "id": "7_tam_t2_tk_q1",
+    "question": "________ தீமை உண்டாகும்.",
+    "options": [
+      "செய்யத்தகுந்த செயல்களைச் செய்வதால்",
+      "செய்யத்தகாத செயல்களைச் செய்யாமல் இருப்பதால்",
+      "செய்யத்தகுந்த செயல்களைச் செய்யாமல் இருப்பதால்",
+      "எதுவும் செய்யாமல் இருப்பதால்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "செய்ய வேண்டிய செயல்களைச் செய்யாமல் விடுவதாலும் தீமை உண்டாகும் எனக் குறள் விளக்குகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_tk_q2",
+    "question": "தன்குடியைச் சிறந்த குடியாகச் செய்ய விரும்புபவரிடம் ________ இருக்கக் கூடாது.",
+    "options": [
+      "சோம்பல்",
+      "சுறுசுறுப்பு",
+      "ஏழ்மை",
+      "செல்வம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தன் குடியைச் சிறப்புடையதாக மாற்ற விரும்புபவர் சோம்பலைத் தவிர்க்க வேண்டும்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_tk_q3",
+    "question": "‘எழுத்தென்ப’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ________.",
+    "options": [
+      "எழுத்து + தென்ப",
+      "எழுத்து + என்ப",
+      "எழுத்து + இன்ப",
+      "எழுத் + தென்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘எழுத்தென்ப’ என்பது ‘எழுத்து + என்ப’ எனப் பிரிகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_tk_q4",
+    "question": "‘கரைந்துண்ணும்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ________.",
+    "options": [
+      "கரைந்து + இன்னும்",
+      "கரை + துண்ணும்",
+      "கரைந்து + உண்ணும்",
+      "கரை + உண்ணும்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "பாடநூல் விடைக்குறிப்பில் ‘கரைந்து + உண்ணும்’ என்று தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
+  },
+  {
+    "id": "7_tam_t2_tk_q5",
+    "question": "‘கற்றனைத்து + ஊறும்’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ________.",
+    "options": [
+      "கற்றனைத்தூறும்",
+      "கற்றனைதூறும்",
+      "கற்றனைத்தீறும்",
+      "கற்றனைத்தோறும்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘கற்றனைத்து + ஊறும்’ சேரும்போது ‘கற்றனைத்தூறும்’ என அமைகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 Term 2 Tamil text mirror",
+    "additionalSourceUrls": []
   }
 ]
