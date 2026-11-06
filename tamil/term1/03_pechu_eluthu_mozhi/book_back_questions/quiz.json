@@ -1,0 +1,82 @@
+[
+  {
+    "id": "7_tam_t1_u1_3_q1",
+    "question": "மொழியின் முதல் நிலை பேசுதல், _________ ஆகியனவாகும்.",
+    "options": [
+      "படித்தல்",
+      "கேட்டல்",
+      "எழுதுதல்",
+      "வரைதல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பாடம் பேசுதலும் கேட்டலும் மொழியின் முதல் நிலை எனக் குறிப்பிடுகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/03_pechu_eluthu_mozhi/page_20.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/"
+  },
+  {
+    "id": "7_tam_t1_u1_3_q2",
+    "question": "ஒலியின் வரிவடிவம் _________ ஆகும்.",
+    "options": [
+      "பேச்சு",
+      "எழுத்து",
+      "குரல்",
+      "பாட்டு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "ஒலியை வரிவடிவில் பதிவு செய்வதே எழுத்து வடிவம்.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/03_pechu_eluthu_mozhi/page_20.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/"
+  },
+  {
+    "id": "7_tam_t1_u1_3_q3",
+    "question": "தமிழின் கிளைமொழிகளுள் ஒன்று _________ .",
+    "options": [
+      "உருது",
+      "இந்தி",
+      "தெலுங்கு",
+      "ஆங்கிலம்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "தெலுங்கு தமிழிலிருந்து பிரிந்த திராவிடக் கிளைமொழிகளில் ஒன்றாகப் பாடத்தில் குறிப்பிடப்பட்டுள்ளது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/03_pechu_eluthu_mozhi/page_20.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/"
+  },
+  {
+    "id": "7_tam_t1_u1_3_q4",
+    "question": "பேச்சுமொழியை _________ வழக்கு என்றும் கூறுவர்.",
+    "options": [
+      "இலக்கிய",
+      "உலக",
+      "நூல்",
+      "மொழி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பாடத்தில் பேச்சுமொழி உலக வழக்கு என்றும் எழுத்துமொழி இலக்கிய வழக்கு என்றும் விளக்கப்படுகிறது.",
+    "sourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/",
+    "sourceName": "TextbookPDF — Class 7 Tamil Term 1, Lesson 1.3",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/7th-standard/Tamil/Class_7_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-07/blob/main/tamil/term1/03_pechu_eluthu_mozhi/page_20.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-7th-tamil-guide-term-1-lesson-1-3/"
+  }
+]
