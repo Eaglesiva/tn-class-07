@@ -304,9 +304,10 @@
   <script>
     pdfjsLib.GlobalWorkerOptions.workerSrc = './vendor/pdfjs/pdf.worker.min.js';
 
-    // Parse URL params
+        // Parse URL params
     const params = new URLSearchParams(window.location.search);
-    const pdfUrl = params.get('pdf') || './tamil/term1/iel_1/01_inbatamil/page_02.pdf';
+    const defaultPdf = './books/2026-27/term1/vol1_tamil_english/pages/page-001.pdf';
+    const pdfUrl = params.get('pdf') || defaultPdf;
     const customTitle = params.get('title');
 
     // Check if embedded in iframe or running standalone
@@ -318,27 +319,83 @@
     const btnNextPage = document.getElementById('btnNextPage');
 
     let currentPageNum = 1;
-    const match = pdfUrl.match(/page_(\d+)\.pdf/);
+    const match = pdfUrl.match(/page[-_](\d+)\.pdf/);
     if (match) {
-      currentPageNum = parseInt(match[1]);
+      currentPageNum = parseInt(match[1], 10);
     }
 
-    // Load the term's flat page list so navigation can cross unit folders correctly
+    // Helper to normalize path comparisons
+    const norm = p => p.replace(/^\.\//, '').trim();
+    const normalizedPdf = norm(pdfUrl);
+
+    // Book metadata mapping for friendly header titles
+    const bookTitleMap = {
+      'term1/vol1_tamil_english': 'வகுப்பு 7 — பருவம் 1: தொகுதி 1 (தமிழ் & ஆங்கிலம்)',
+      'term1/vol2_maths_tm': 'வகுப்பு 7 — பருவம் 1: தொகுதி 2 (கணிதம் - தமிழ் வழி)',
+      'term1/vol2_maths_em': 'Class 7 — Term 1: Volume 2 (Mathematics - English Medium)',
+      'term1/vol3_sci_soc_tm': 'வகுப்பு 7 — பருவம் 1: தொகுதி 3 (அறிவியல் & சமூக அறிவியல் - தமிழ் வழி)',
+      'term1/vol3_sci_soc_em': 'Class 7 — Term 1: Volume 3 (Science & Social Science - English Medium)',
+      'tamil/term2': 'வகுப்பு 7 — தமிழ் (பருவம் 2 - பழைய பதிப்பு)',
+      'tamil/term3': 'வகுப்பு 7 — தமிழ் (பருவம் 3 - பழைய பதிப்பு)',
+      'english/term2': 'Class 7 — English (Term 2 - Legacy Edition)',
+      'english/term3': 'Class 7 — English (Term 3 - Legacy Edition)',
+      'maths_tm/term2': 'வகுப்பு 7 — கணிதம் (பருவம் 2 - தமிழ் வழி - பழைய பதிப்பு)',
+      'maths_tm/term3': 'வகுப்பு 7 — கணிதம் (பருவம் 3 - தமிழ் வழி - பழைய பதிப்பு)',
+      'maths_em/term2': 'Class 7 — Mathematics (Term 2 - English Medium - Legacy Edition)',
+      'maths_em/term3': 'Class 7 — Mathematics (Term 3 - English Medium - Legacy Edition)',
+      'science_tm/term2': 'வகுப்பு 7 — அறிவியல் (பருவம் 2 - தமிழ் வழி - பழைய பதிப்பு)',
+      'science_tm/term3': 'வகுப்பு 7 — அறிவியல் (பருவம் 3 - தமிழ் வழி - பழைய பதிப்பு)',
+      'science_em/term2': 'Class 7 — Science (Term 2 - English Medium - Legacy Edition)',
+      'science_em/term3': 'Class 7 — Science (Term 3 - English Medium - Legacy Edition)',
+      'social_science_tm/term2': 'வகுப்பு 7 — சமூக அறிவியல் (பருவம் 2 - தமிழ் வழி - பழைய பதிப்பு)',
+      'social_science_tm/term3': 'வகுப்பு 7 — சமூக அறிவியல் (பருவம் 3 - தமிழ் வழி - பழைய பதிப்பு)',
+      'social_science_em/term2': 'Class 7 — Social Science (Term 2 - English Medium - Legacy Edition)',
+      'social_science_em/term3': 'Class 7 — Social Science (Term 3 - English Medium - Legacy Edition)'
+    };
+
+    let autoDetectedTitle = null;
+    for (const [key, bTitle] of Object.entries(bookTitleMap)) {
+      if (normalizedPdf.includes(key)) {
+        autoDetectedTitle = `${bTitle} — பக்கம் ${currentPageNum}`;
+        break;
+      }
+    }
+
+    // Resolve book directory and pages.json URL
+    let pagesJsonUrl = null;
+    let bookPrefix = '';
+    if (normalizedPdf.includes('/pages/')) {
+      // 2026 Edition format: books/2026-27/{term}/{vol}/pages/page-xxx.pdf
+      bookPrefix = normalizedPdf.substring(0, normalizedPdf.lastIndexOf('/pages/'));
+      pagesJsonUrl = './' + bookPrefix + '/pages.json';
+    } else {
+      // Legacy format fallback: {subject}/{term}/...
+      const bookMatch = normalizedPdf.match(/^([^/]+)\/([^/]+)\//);
+      if (bookMatch) {
+        bookPrefix = `${bookMatch[1]}/${bookMatch[2]}`;
+        pagesJsonUrl = `./${bookPrefix}/pages.json`;
+      }
+    }
+
+    // Load book's pages.json manifest for full sequential page navigation
     let pageList = null;
     let pageListIndex = -1;
-    const bookMatch = pdfUrl.match(/^\.\/([^/]+)\/([^/]+)\//);
-    if (bookMatch) {
-      const pagesJsonUrl = `./${bookMatch[1]}/${bookMatch[2]}/pages.json`;
+    if (pagesJsonUrl) {
       fetch(pagesJsonUrl).then(r => r.ok ? r.json() : null).then(list => {
         if (!Array.isArray(list)) return;
-        pageList = list;
-        pageListIndex = list.indexOf(pdfUrl);
-        if (pageListIndex === -1) {
-          const norm = p => p.replace(/^\.\//, '');
-          pageListIndex = list.findIndex(p => norm(p) === norm(pdfUrl));
-        }
+        pageList = list.map(item => {
+          if (item.startsWith('pages/')) {
+            return './' + bookPrefix + '/' + item;
+          }
+          return item.startsWith('./') ? item : './' + item;
+        });
+        const currentNorm = norm(pdfUrl);
+        pageListIndex = pageList.findIndex(p => norm(p) === currentNorm);
         if (pageListIndex <= 0) btnPrevPage.disabled = true;
-        if (pageListIndex === list.length - 1) btnNextPage.disabled = true;
+        if (pageListIndex >= pageList.length - 1) btnNextPage.disabled = true;
+        if (pageListIndex !== -1) {
+          pageIndicator.textContent = `பக்கம் ${pageListIndex + 1} / ${pageList.length}`;
+        }
       }).catch(() => { pageList = null; });
     }
 
@@ -351,6 +408,8 @@
     const docTitle = document.getElementById('docTitle');
     if (customTitle) {
       docTitle.textContent = customTitle;
+    } else if (autoDetectedTitle) {
+      docTitle.textContent = autoDetectedTitle;
     } else if (match) {
       docTitle.textContent = `இயல் பக்கம் ${currentPageNum}`;
     }
@@ -399,11 +458,17 @@
         window.location.search = newSearch.toString();
         return;
       }
-      // Fallback: naive same-folder page number increment (used only if pages.json is unavailable)
+      // Fallback: naive same-folder page number increment
       const targetPage = currentPageNum + direction;
       if (targetPage < 1) return;
-      const targetStr = targetPage.toString().padStart(2, '0');
-      const newUrl = pdfUrl.replace(/page_\d+\.pdf/, `page_${targetStr}.pdf`);
+      let newUrl = pdfUrl;
+      if (pdfUrl.includes('page-')) {
+        const targetStr = targetPage.toString().padStart(3, '0');
+        newUrl = pdfUrl.replace(/page-\d+\.pdf/, `page-${targetStr}.pdf`);
+      } else {
+        const targetStr = targetPage.toString().padStart(2, '0');
+        newUrl = pdfUrl.replace(/page_\d+\.pdf/, `page_${targetStr}.pdf`);
+      }
       const newSearch = new URLSearchParams(window.location.search);
       newSearch.set('pdf', newUrl);
       window.location.search = newSearch.toString();
