@@ -116,9 +116,9 @@
       text-align: center;
     }
 
-    /* Book Page Navigation Arrows (Always visible on all screens!) */
+    /* Book Page Navigation Arrows (Visible everywhere) */
     .nav-page-group {
-      display: flex !important;
+      display: flex;
       align-items: center;
       background: rgba(30, 41, 59, 0.85);
       border: 1px solid rgba(255, 255, 255, 0.14);
@@ -252,6 +252,51 @@
       color: #94a3b8;
       font-weight: 600;
     }
+  
+    /* Floating Center Screen Nav Turners (Auto-Fading Thumb Navigation) */
+    .floating-nav-arrow {
+      position: fixed;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(15, 23, 42, 0.75);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      color: #ffffff;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 28px;
+      font-weight: 300;
+      z-index: 95;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+      transition: opacity 0.35s ease, background 0.15s, transform 0.15s;
+      opacity: 0;
+      pointer-events: none;
+      user-select: none;
+    }
+    .floating-nav-arrow.visible {
+      opacity: 0.9;
+      pointer-events: auto;
+    }
+    .floating-nav-arrow:hover:not(:disabled) {
+      opacity: 1 !important;
+      background: #0284c7;
+      border-color: #38bdf8;
+      transform: translateY(-50%) scale(1.1);
+    }
+    .floating-nav-arrow:disabled {
+      opacity: 0.2 !important;
+      cursor: not-allowed;
+      pointer-events: none;
+    }
+    .floating-nav-prev { left: 18px; }
+    .floating-nav-next { right: 18px; }
+
   </style>
 </head>
 <body>
@@ -290,6 +335,11 @@
     </div>
   </header>
 
+  <!-- Floating Center Screen Nav Turners (Auto-Fading Thumb Navigation) -->
+  <button class="floating-nav-arrow floating-nav-prev" id="floatingPrevBtn" onclick="navigatePage(-1)" title="முந்தைய பக்கம் (Previous Page)">‹</button>
+  <button class="floating-nav-arrow floating-nav-next" id="floatingNextBtn" onclick="navigatePage(1)" title="அடுத்த பக்கம் (Next Page)">›</button>
+
+
   <!-- 2D Viewport Scroll Area -->
   <main class="viewport-scroll-area" id="scrollArea">
     <div class="canvas-wrapper" id="canvasWrapper">
@@ -304,14 +354,13 @@
   <script>
     pdfjsLib.GlobalWorkerOptions.workerSrc = './vendor/pdfjs/pdf.worker.min.js';
 
-        // Parse URL params
+    // Parse URL params
     const params = new URLSearchParams(window.location.search);
-    const defaultPdf = './books/2026-27/term1/vol1_tamil_english/pages/page-001.pdf';
-    const pdfUrl = params.get('pdf') || defaultPdf;
+    const pdfUrl = params.get('pdf') || './tamil/00_prelims/page_01.pdf';
     const customTitle = params.get('title');
 
     // Check if embedded in iframe or running standalone
-    const isEmbedded = (window.self !== window.top);
+    const isEmbedded = (window.self !== window.top) || (new URLSearchParams(window.location.search).get('embed') === '1');
     const btnPopout = document.getElementById('btnPopout');
     const navPageGroup = document.getElementById('navPageGroup');
     const pageIndicator = document.getElementById('pageIndicator');
@@ -321,95 +370,129 @@
     let currentPageNum = 1;
     const match = pdfUrl.match(/page[-_](\d+)\.pdf/);
     if (match) {
-      currentPageNum = parseInt(match[1], 10);
+      currentPageNum = parseInt(match[1]);
     }
 
-    // Helper to normalize path comparisons
-    const norm = p => p.replace(/^\.\//, '').trim();
-    const normalizedPdf = norm(pdfUrl);
-
-    // Book metadata mapping for friendly header titles
-    const bookTitleMap = {
-      'term1/vol1_tamil_english': 'வகுப்பு 7 — பருவம் 1: தொகுதி 1 (தமிழ் & ஆங்கிலம்)',
-      'term1/vol2_maths_tm': 'வகுப்பு 7 — பருவம் 1: தொகுதி 2 (கணிதம் - தமிழ் வழி)',
-      'term1/vol2_maths_em': 'Class 7 — Term 1: Volume 2 (Mathematics - English Medium)',
-      'term1/vol3_sci_soc_tm': 'வகுப்பு 7 — பருவம் 1: தொகுதி 3 (அறிவியல் & சமூக அறிவியல் - தமிழ் வழி)',
-      'term1/vol3_sci_soc_em': 'Class 7 — Term 1: Volume 3 (Science & Social Science - English Medium)',
-      'tamil/term2': 'வகுப்பு 7 — தமிழ் (பருவம் 2 - பழைய பதிப்பு)',
-      'tamil/term3': 'வகுப்பு 7 — தமிழ் (பருவம் 3 - பழைய பதிப்பு)',
-      'english/term2': 'Class 7 — English (Term 2 - Legacy Edition)',
-      'english/term3': 'Class 7 — English (Term 3 - Legacy Edition)',
-      'maths_tm/term2': 'வகுப்பு 7 — கணிதம் (பருவம் 2 - தமிழ் வழி - பழைய பதிப்பு)',
-      'maths_tm/term3': 'வகுப்பு 7 — கணிதம் (பருவம் 3 - தமிழ் வழி - பழைய பதிப்பு)',
-      'maths_em/term2': 'Class 7 — Mathematics (Term 2 - English Medium - Legacy Edition)',
-      'maths_em/term3': 'Class 7 — Mathematics (Term 3 - English Medium - Legacy Edition)',
-      'science_tm/term2': 'வகுப்பு 7 — அறிவியல் (பருவம் 2 - தமிழ் வழி - பழைய பதிப்பு)',
-      'science_tm/term3': 'வகுப்பு 7 — அறிவியல் (பருவம் 3 - தமிழ் வழி - பழைய பதிப்பு)',
-      'science_em/term2': 'Class 7 — Science (Term 2 - English Medium - Legacy Edition)',
-      'science_em/term3': 'Class 7 — Science (Term 3 - English Medium - Legacy Edition)',
-      'social_science_tm/term2': 'வகுப்பு 7 — சமூக அறிவியல் (பருவம் 2 - தமிழ் வழி - பழைய பதிப்பு)',
-      'social_science_tm/term3': 'வகுப்பு 7 — சமூக அறிவியல் (பருவம் 3 - தமிழ் வழி - பழைய பதிப்பு)',
-      'social_science_em/term2': 'Class 7 — Social Science (Term 2 - English Medium - Legacy Edition)',
-      'social_science_em/term3': 'Class 7 — Social Science (Term 3 - English Medium - Legacy Edition)'
-    };
-
-    let autoDetectedTitle = null;
-    for (const [key, bTitle] of Object.entries(bookTitleMap)) {
-      if (normalizedPdf.includes(key)) {
-        autoDetectedTitle = `${bTitle} — பக்கம் ${currentPageNum}`;
-        break;
-      }
-    }
-
-    // Resolve book directory and pages.json URL
-    let pagesJsonUrl = null;
-    let bookPrefix = '';
-    if (normalizedPdf.includes('/pages/')) {
-      // 2026 Edition format: books/2026-27/{term}/{vol}/pages/page-xxx.pdf
-      bookPrefix = normalizedPdf.substring(0, normalizedPdf.lastIndexOf('/pages/'));
-      pagesJsonUrl = './' + bookPrefix + '/pages.json';
-    } else {
-      // Legacy format fallback: {subject}/{term}/...
-      const bookMatch = normalizedPdf.match(/^([^/]+)\/([^/]+)\//);
-      if (bookMatch) {
-        bookPrefix = `${bookMatch[1]}/${bookMatch[2]}`;
-        pagesJsonUrl = `./${bookPrefix}/pages.json`;
-      }
-    }
-
-    // Load book's pages.json manifest for full sequential page navigation
+    // Load the subject's page list (normal full book or dedicated book-back questions)
     let pageList = null;
     let pageListIndex = -1;
-    if (pagesJsonUrl) {
-      fetch(pagesJsonUrl).then(r => r.ok ? r.json() : null).then(list => {
+    const isBookBackMode = params.get('mode') === 'book_back' || params.get('mode') === 'bookback' || window.location.href.includes('mode=book_back') || window.location.href.includes('mode=bookback');
+
+    // Universal bookDir resolution: works for both nested term books and direct subjects
+    let bookDir = null;
+    if (pdfUrl.includes('/pages/')) {
+      bookDir = pdfUrl.substring(0, pdfUrl.lastIndexOf('/pages/'));
+    } else {
+      const parts = pdfUrl.replace(/^\.\//, '').split('/');
+      if (parts.length >= 2) {
+        bookDir = './' + parts[0];
+      }
+    }
+
+    if (bookDir) {
+      const targetJsonUrl = isBookBackMode 
+        ? `${bookDir}/book_back_pages.json` 
+        : `${bookDir}/pages.json`;
+
+      fetch(targetJsonUrl).then(r => r.ok ? r.json() : null).then(list => {
         if (!Array.isArray(list)) return;
-        pageList = list.map(item => {
-          if (item.startsWith('pages/')) {
-            return './' + bookPrefix + '/' + item;
-          }
-          return item.startsWith('./') ? item : './' + item;
-        });
-        const currentNorm = norm(pdfUrl);
-        pageListIndex = pageList.findIndex(p => norm(p) === currentNorm);
-        if (pageListIndex <= 0) btnPrevPage.disabled = true;
-        if (pageListIndex >= pageList.length - 1) btnNextPage.disabled = true;
-        if (pageListIndex !== -1) {
-          pageIndicator.textContent = `பக்கம் ${pageListIndex + 1} / ${pageList.length}`;
+        pageList = list;
+        pageListIndex = list.indexOf(pdfUrl);
+        if (pageListIndex === -1) {
+          const norm = p => p.replace(/^\.\//, '');
+          const curNorm = norm(pdfUrl);
+          pageListIndex = list.findIndex(p => {
+            const pNorm = norm(p);
+            return pNorm === curNorm || curNorm.endsWith(pNorm) || pNorm.endsWith(curNorm);
+          });
         }
+
+        if (isBookBackMode && pageListIndex !== -1) {
+          pageIndicator.textContent = `வினா ${pageListIndex + 1} / ${pageList.length}`;
+        } else {
+          pageIndicator.textContent = `பக்கம் ${currentPageNum}`;
+        }
+
+        if (pageListIndex <= 0) { btnPrevPage.disabled = true; if (floatingPrevBtn) floatingPrevBtn.disabled = true; }
+        else { btnPrevPage.disabled = false; if (floatingPrevBtn) floatingPrevBtn.disabled = false; }
+
+        if (pageListIndex === list.length - 1) { btnNextPage.disabled = true; if (floatingNextBtn) floatingNextBtn.disabled = true; }
+        else { btnNextPage.disabled = false; if (floatingNextBtn) floatingNextBtn.disabled = false; }
       }).catch(() => { pageList = null; });
     }
 
-    // Always show navigation & popout everywhere
-    btnPopout.style.display = 'flex';
-    navPageGroup.style.display = 'flex';
-    pageIndicator.textContent = `பக்கம் ${currentPageNum}`;
-    if (currentPageNum <= 1) btnPrevPage.disabled = true;
+    
+    // ----------------------------------------------------
+    // Auto-Fade Center Floating Navigation Turners
+    // ----------------------------------------------------
+    let navHideTimer = null;
+    let isHoveringFloatingNav = false;
+
+    const floatingPrevBtn = document.getElementById('floatingPrevBtn');
+    const floatingNextBtn = document.getElementById('floatingNextBtn');
+
+    function showFloatingNav() {
+      if (floatingPrevBtn) floatingPrevBtn.classList.add('visible');
+      if (floatingNextBtn) floatingNextBtn.classList.add('visible');
+
+      clearTimeout(navHideTimer);
+      navHideTimer = setTimeout(() => {
+        if (!isHoveringFloatingNav) {
+          if (floatingPrevBtn) floatingPrevBtn.classList.remove('visible');
+          if (floatingNextBtn) floatingNextBtn.classList.remove('visible');
+        }
+      }, 2500);
+    }
+
+    [floatingPrevBtn, floatingNextBtn].forEach(btn => {
+      if (btn) {
+        btn.addEventListener('mouseenter', () => { isHoveringFloatingNav = true; });
+        btn.addEventListener('mouseleave', () => { 
+          isHoveringFloatingNav = false; 
+          showFloatingNav(); 
+        });
+      }
+    });
+
+    document.addEventListener('mousemove', showFloatingNav);
+    document.addEventListener('touchstart', showFloatingNav, { passive: true });
+    showFloatingNav();
+
+    // Always keep page navigation arrows & popout visible everywhere!
+    if (navPageGroup) navPageGroup.style.display = 'flex';
+    if (btnPopout) btnPopout.style.display = 'flex';
+
+    // 📱 Touch Swipe Gesture (Mobile Thumb Navigation)
+    let viewerTouchStartX = 0;
+    let viewerTouchStartY = 0;
+    window.addEventListener('touchstart', (e) => {
+      if (e.touches && e.touches.length === 1) {
+        viewerTouchStartX = e.touches[0].clientX;
+        viewerTouchStartY = e.touches[0].clientY;
+      }
+    }, { passive: true });
+
+    window.addEventListener('touchend', (e) => {
+      if (e.changedTouches && e.changedTouches.length === 1) {
+        const diffX = e.changedTouches[0].clientX - viewerTouchStartX;
+        const diffY = e.changedTouches[0].clientY - viewerTouchStartY;
+        if (Math.abs(diffX) > 60 && Math.abs(diffX) > Math.abs(diffY) * 1.4) {
+          if (diffX < 0) {
+            navigatePage(1);
+          } else {
+            navigatePage(-1);
+          }
+        }
+      }
+    }, { passive: true });
+    if (!isBookBackMode) {
+      pageIndicator.textContent = `பக்கம் ${currentPageNum}`;
+      if (currentPageNum <= 1) { btnPrevPage.disabled = true; if (floatingPrevBtn) floatingPrevBtn.disabled = true; }
+    }
 
     const docTitle = document.getElementById('docTitle');
     if (customTitle) {
       docTitle.textContent = customTitle;
-    } else if (autoDetectedTitle) {
-      docTitle.textContent = autoDetectedTitle;
     } else if (match) {
       docTitle.textContent = `இயல் பக்கம் ${currentPageNum}`;
     }
@@ -448,7 +531,14 @@
     // Page Turners Navigation (Standalone Mode - Retains Zoom!)
     // ----------------------------------------------------
     function navigatePage(direction) {
-      // Prefer the flat page list (crosses unit/lesson folder boundaries correctly)
+      // 1. Notify parent shell to synchronize outer UI if embedded
+      try {
+        if (window.parent && window.parent !== window) {
+          window.parent.postMessage({ type: 'tn_navigate', action: 'navigate_page', direction: direction > 0 ? 'next' : 'prev' }, '*');
+        }
+      } catch (e) {}
+
+      // 2. Direct page flip according to pageList (normal book or book-back sequence)!
       if (pageList && pageListIndex !== -1) {
         const targetIndex = pageListIndex + direction;
         if (targetIndex < 0 || targetIndex >= pageList.length) return;
@@ -458,17 +548,18 @@
         window.location.search = newSearch.toString();
         return;
       }
-      // Fallback: naive same-folder page number increment
+
+      // In book back mode, do NOT naively step into sequential non-exercise pages
+      if (isBookBackMode) {
+        console.warn('Book-back page list not loaded or current page not in index.');
+        return;
+      }
+
+      // Fallback: naive same-folder page number increment (used only if pages.json is unavailable)
       const targetPage = currentPageNum + direction;
       if (targetPage < 1) return;
-      let newUrl = pdfUrl;
-      if (pdfUrl.includes('page-')) {
-        const targetStr = targetPage.toString().padStart(3, '0');
-        newUrl = pdfUrl.replace(/page-\d+\.pdf/, `page-${targetStr}.pdf`);
-      } else {
-        const targetStr = targetPage.toString().padStart(2, '0');
-        newUrl = pdfUrl.replace(/page_\d+\.pdf/, `page_${targetStr}.pdf`);
-      }
+      const targetStr = targetPage.toString().padStart(3, '0');
+      const newUrl = pdfUrl.replace(/page[-_]\d+\.pdf/, `page-${targetStr}.pdf`);
       const newSearch = new URLSearchParams(window.location.search);
       newSearch.set('pdf', newUrl);
       window.location.search = newSearch.toString();
@@ -656,7 +747,9 @@
     // Pop-out / Open in New Window (Pure Top-Level Context)
     // ----------------------------------------------------
     function openPopoutNewTab() {
-      window.open(window.location.href, '_blank', 'noopener');
+      const url = new URL(window.location.href);
+      url.searchParams.delete('embed');
+      window.open(url.toString(), '_blank', 'noopener');
     }
 
     // ----------------------------------------------------
@@ -673,15 +766,14 @@
             const p = rfs.call(docEl);
             if (p && p.catch) {
               p.catch(() => {
-                // If denied by parent iframe, open independent full tab
-                window.open(window.location.href, '_blank', 'noopener');
+                openPopoutNewTab();
               });
             }
           } catch (e) {
-            window.open(window.location.href, '_blank', 'noopener');
+            openPopoutNewTab();
           }
         } else {
-          window.open(window.location.href, '_blank', 'noopener');
+          openPopoutNewTab();
         }
       } else {
         const efs = document.exitFullscreen || document.webkitExitFullscreen || document.mozCancelFullScreen || document.msExitFullscreen;
@@ -691,17 +783,27 @@
       }
     }
 
-    // Listen for fullscreen change to update icon/tooltip
-    document.addEventListener('fullscreenchange', () => {
+    // Update controls when fullscreen changes
+    function updateFullscreenMode() {
       const btn = document.getElementById('btnFullscreen');
-      if (document.fullscreenElement) {
-        btn.textContent = '✕';
-        btn.title = 'முழுத்திரையிலிருந்து வெளியேறு (Exit Fullscreen)';
+      const isFull = !!(document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement);
+      if (isFull) {
+        if (btn) {
+          btn.textContent = '✕';
+          btn.title = 'முழுத்திரையிலிருந்து வெளியேறு (Exit Fullscreen)';
+        }
       } else {
-        btn.textContent = '⛶';
-        btn.title = 'முழுத்திரை (Fullscreen)';
+        if (btn) {
+          btn.textContent = '⛶';
+          btn.title = 'முழுத்திரை (Fullscreen)';
+        }
       }
-    });
+    }
+
+    document.addEventListener('fullscreenchange', updateFullscreenMode);
+    document.addEventListener('webkitfullscreenchange', updateFullscreenMode);
+    document.addEventListener('mozfullscreenchange', updateFullscreenMode);
+    document.addEventListener('MSFullscreenChange', updateFullscreenMode);
 
     // ----------------------------------------------------
     // Download PDF
